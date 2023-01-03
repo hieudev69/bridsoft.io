@@ -1653,27 +1653,6 @@ a:hover {
 	text-decoration-skip-ink: none;
 }
 
-
-.site a:focus:not(.wp-block-button__link):not(.wp-block-file__button).skip-link {
-
-	/* Only visible in Windows High Contrast mode */
-	outline: 2px solid transparent;
-	outline-offset: -2px;
-}
-
-.site a:focus:not(.wp-block-button__link):not(.wp-block-file__button).skip-link:focus {
-	color: #21759b;
-	background-color: #f1f1f1;
-}
-
-.site a:focus:not(.wp-block-button__link):not(.wp-block-file__button).custom-logo-link {
-	background: none;
-}
-
-.site a:focus:not(.wp-block-button__link):not(.wp-block-file__button) img {
-	outline: 2px dotted var(--wp--style--color--link, var(--global--color-primary));
-}
-
 .has-background .has-link-color a,
 .has-background.has-link-color a {
 	color: var(--wp--style--color--link, var(--global--color-primary));
@@ -2195,7 +2174,7 @@ section#contact label{
 .wp-block-gallery .blocks-gallery-image figcaption a:focus,
 .wp-block-gallery .blocks-gallery-item figcaption a:focus {
 	background-color: transparent;
-	outline: 2px solid var(--wp--style--color--link, var(--global--color-primary));
+	/* outline: 2px solid var(--wp--style--color--link, var(--global--color-primary)); */
 	text-decoration: none;
 }
 

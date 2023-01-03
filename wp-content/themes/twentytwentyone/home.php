@@ -240,7 +240,6 @@ if ( ! defined( 'ABSPATH' ) ) {
     <section class="section-three-service3 p-30">
         <div class="container">
         <div class="slick-choose"  data-aos="flip-left">
-             
              <div class="items">
             <div class="row">
                 <h2 class="mb-3 text-center">APP Development</h2>
@@ -607,7 +606,7 @@ if ( ! defined( 'ABSPATH' ) ) {
                             <img src="wp-content/uploads/2023/01/hopital.jpg"  class="img-responsive" alt="">
                             <div class="text">
                                 <p class="date">January-September 2020</p>
-                                <a href="#home">
+                                <a href="javascript:;">
                                     <h3>Client: C.S.C Belgium</h3>
                                 </a>
                                 <p>Design, Manufacturing, Logistics and Installation</p>
@@ -621,7 +620,7 @@ if ( ! defined( 'ABSPATH' ) ) {
                             <img src="wp-content/uploads/2022/12/pexels-photo-256455.jpeg"   class="img-responsive" alt="">
                             <div class="text">
                                 <p class="date">May 2022</p>
-                                <a href="#home">
+                                <a href="javascript:;">
                                     <h3>Client: Solucalc</h3>
                                 </a>
                                 <p>Server Configuration, API, Mobile App &amp; Admin Dashboard Development</p>
@@ -635,7 +634,7 @@ if ( ! defined( 'ABSPATH' ) ) {
                             class="img-responsive"   alt="">
                             <div class="text">
                                 <p class="date">June 2022</p>
-                                <a href="#home">
+                                <a href="javascript:;">
                                     <h3>Client: PolisiN</h3>
                                 </a>
                                 <p>Social Media Plateform &amp; Admin Dashboard</p>
@@ -647,7 +646,7 @@ if ( ! defined( 'ABSPATH' ) ) {
                             <img src="wp-content/uploads/2022/12/pexels-photo-256455.jpeg"   class="img-responsive" alt="">
                             <div class="text">
                                 <p class="date">May 2022</p>
-                                <a href="#home">
+                                <a href="javascript:;">
                                     <h3>Client: Solucalc</h3>
                                 </a>
                                 <p>Server Configuration, API, Mobile App &amp; Admin Dashboard Development</p>
@@ -660,7 +659,7 @@ if ( ! defined( 'ABSPATH' ) ) {
                             class="img-responsive"   alt="">
                             <div class="text">
                                 <p class="date">June 2022</p>
-                                <a href="#home">
+                                <a href="javascript:;">
                                     <h3>Client: PolisiN</h3>
                                 </a>
                                 <p>Social Media Plateform &amp; Admin Dashboard</p>
@@ -672,7 +671,7 @@ if ( ! defined( 'ABSPATH' ) ) {
                             <img src="wp-content/uploads/2022/12/pexels-photo-256455.jpeg"   class="img-responsive" alt="">
                             <div class="text">
                                 <p class="date">May 2022</p>
-                                <a href="#home">
+                                <a href="javascript:;">
                                     <h3>Client: Solucalc</h3>
                                 </a>
                                 <p>Server Configuration, API, Mobile App &amp; Admin Dashboard Development</p>
@@ -688,7 +687,7 @@ if ( ! defined( 'ABSPATH' ) ) {
                             <img src="wp-content/uploads/2023/01/hopital.jpg"  class="img-responsive"alt="">
                             <div class="text">
                                 <p class="date">January-September 2020</p>
-                                <a href="#home">
+                                <a href="javascript:;">
                                     <h3>Client: C.S.C Belgium</h3>
                                 </a>
                                 <p>Design, Manufacturing, Logistics and Installation</p>
@@ -702,7 +701,7 @@ if ( ! defined( 'ABSPATH' ) ) {
                             class="img-responsive"   alt="">
                             <div class="text">
                                 <p class="date">June 2022</p>
-                                <a href="#home">
+                                <a href="javascript:;">
                                     <h3>Client: PolisiN</h3>
                                 </a>
                                 <p>Social Media Plateform &amp; Admin Dashboard</p>
@@ -714,7 +713,7 @@ if ( ! defined( 'ABSPATH' ) ) {
                             <img src="wp-content/uploads/2022/12/pexels-photo-256455.jpeg"   class="img-responsive" alt="">
                             <div class="text">
                                 <p class="date">May 2022</p>
-                                <a href="#home">
+                                <a href="javascript:;">
                                     <h3>Client: Solucalc</h3>
                                 </a>
                                 <p>Server Configuration, API, Mobile App &amp; Admin Dashboard Development</p>
@@ -726,7 +725,7 @@ if ( ! defined( 'ABSPATH' ) ) {
                             <img src="wp-content/uploads/2022/12/pexels-photo-256455.jpeg"  class="img-responsive" alt="">
                             <div class="text">
                                 <p class="date">May 2022</p>
-                                <a href="#home">
+                                <a href="javascript:;">
                                     <h3>Client: Solucalc</h3>
                                 </a>
                                 <p>Server Configuration, API, Mobile App &amp; Admin Dashboard Development</p>
@@ -740,7 +739,7 @@ if ( ! defined( 'ABSPATH' ) ) {
                                 alt="">
                             <div class="text">
                                 <p class="date">June 2022</p>
-                                <a href="#home">
+                                <a href="javascript:;">
                                     <h3>Client: PolisiN</h3>
                                 </a>
                                 <p>Social Media Plateform &amp; Admin Dashboard</p>
@@ -752,7 +751,7 @@ if ( ! defined( 'ABSPATH' ) ) {
                             <img src="wp-content/uploads/2022/12/pexels-photo-256455.jpeg"   class="img-responsive" alt="">
                             <div class="text">
                                 <p class="date">May 2022</p>
-                                <a href="#home">
+                                <a href="javascript:;">
                                     <h3>Client: Solucalc</h3>
                                 </a>
                                 <p>Server Configuration, API, Mobile App &amp; Admin Dashboard Development</p>
