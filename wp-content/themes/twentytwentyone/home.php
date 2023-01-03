@@ -21,8 +21,8 @@ if ( ! defined( 'ABSPATH' ) ) {
                     <h1 class="text-white text-left" data-aos="fade-right" data-aos-offset="300" data-aos-delay="300"
                         data-aos-easing="ease-in-sine" style="font-size:30px">BRIDSOFT WE'RE SOFTWARE DEVELOPERS, WE CAN
                         SUPPORT EVERYTHING ABOUT THE SOFTWARE AS YOUR FRIENDS</h1>
-                   <a href="#contact"> <button class="btn btn-danger mb-3" data-aos="fade-right" data-aos-offset="300" data-aos-delay="3"
-                        data-aos-easing="ease-in-sine">CONTACT US</button></a>
+                    <a href="#contact"> <button class="btn btn-danger mb-3" data-aos="fade-right" data-aos-offset="300"
+                            data-aos-delay="3" data-aos-easing="ease-in-sine">CONTACT US</button></a>
                 </div>
                 <div class="col-md-6">
                 </div>
@@ -44,18 +44,18 @@ if ( ! defined( 'ABSPATH' ) ) {
             <div class="col-lg-6 col-md-6  col-sm-6 border-bottoms">
                 <div class="service_details_img">
                     <img src="wp-content/uploads/2022/12/IMG_6416-scaled.jpeg" alt="" data-aos="fade-right"
-     data-aos-offset="100"
-     data-aos-easing="ease-in-sine">
+                        data-aos-offset="100" data-aos-easing="ease-in-sine">
                 </div>
             </div>
             <div class="col-lg-6  col-md-6  col-sm-6  border-left">
                 <div class="service_details">
                     <div class="dot"><span class="dot1"></span><span class="dot2"></span></div>
 
-                    <h3 class="f_p f_size_30 t_color3 l_height40 mb-30" data-aos="fade-right"   data-aos-delay="100">You know that it is <span class="f_700">the
+                    <h3 class="f_p f_size_30 t_color3 l_height40 mb-30" data-aos="fade-right" data-aos-delay="100">You
+                        know that it is <span class="f_700">the
                             right time to leverage</span> your business by technology… But where to start? What to
                         improve and how?</h3>
-                    <ul class="list-unstyled mb-30"  data-aos="fade-right"  data-aos-delay="200">
+                    <ul class="list-unstyled mb-30" data-aos="fade-right" data-aos-delay="200">
                         <li>
                             <p>Existing products demand you to adapt yourself to them? But you need sth, that is adapted
                                 100% and respects your own business logic and the and your employees' lack of IT
@@ -69,22 +69,19 @@ if ( ! defined( 'ABSPATH' ) ) {
                     <div class="col-lg-6  col-md-6  col-sm-6  agency_featured_content ">
                         <div class="dot"><span class="dot1"></span><span class="dot2"></span></div>
 
-                        <div class="service_details_img" >
-                            <img src="wp-content/uploads/2022/12/pexels-photo-7413909.jpeg"
-                                alt="" data-aos="flip-right" data-aos-delay="250">
+                        <div class="service_details_img">
+                            <img src="wp-content/uploads/2022/12/pexels-photo-7413909.jpeg" alt="" data-aos="flip-right"
+                                data-aos-delay="250">
                         </div>
                     </div>
                     <div class="col-lg-6  col-md-6  col-sm-6  border-left">
                         <div class="service_details-second pr_120 ">
                             <div class="dot"><span class="dot1"></span><span class="dot2"></span></div>
 
-                            <h3 data-aos="fade-down"  data-aos-delay="250">The solution is as individual as your business. It has to <span class="f_700">fit your
-                                    company </span>perfectly.</h3>
+                            <h3 data-aos="fade-down" data-aos-delay="250">Company technology startup. New <span class="f_700">but not inexperienced.</span></h3>
                             <ul class="list-unstyled mb-30 pl-0 pr_20">
                                 <li>
-                                    <p data-aos="fade-down"  data-aos-delay="280">Not the other way around. The time of products, that force you to adapt to their
-                                        logic is over. Because a Solution ist not just a program. It’s the results it
-                                        brings to your business.</p>
+                                    <p data-aos="fade-down" data-aos-delay="280">Our team is a collection of individuals who have operated and worked at large corporations and companies in Vietnam. The staff is multi-faceted, young and enthusiastic.</p>
                                 </li>
                             </ul>
                         </div>
@@ -99,16 +96,17 @@ if ( ! defined( 'ABSPATH' ) ) {
 
                         <div class="service_details_img mt-4 " data-aos="fade-up"
                             data-aos-anchor-placement="top-bottom">
-                            <img src="wp-content/uploads/2022/12/pexels-photo-3183172.jpeg"
-                                alt="">
+                            <img src="wp-content/uploads/2022/12/pexels-photo-3183172.jpeg" alt="">
                         </div>
                     </div>
                     <div class="col-lg-6  col-md-6  col-sm-6  d-flex align-items-center border-left ss">
                         <div class="dot"><span class="dot1"></span><span class="dot2"></span></div>
 
                         <div class="service_details">
-                            <h1 class="f_p f_600 f_size_30 t_color3 l_height40 ">Master your Resources</h1>
+                            <h3 data-aos="fade-down">The solution is as individual as your business. It has to <span class="f_700"> fit your company</span>perfectly.</h3>
+
                             <ul class="list-unstyled mb-30 pl-0 pr_20">
+                             
                                 <li>
                                     <p>Not the other way around. The time of products, that force you to adapt to their
                                         logic is over. Because a Solution ist not just a program. It’s the results it
@@ -145,10 +143,8 @@ if ( ! defined( 'ABSPATH' ) ) {
             <div class="col-md-6">
                 <div class="content-right " data-aos="fade-right">
                     <h3 class="c-content__listblock--title o-font-gilroy">
-                        <img width="100px"
-                            src="wp-content/uploads/2023/01/2consult.jpg"
-                            alt="30-min free consultation" title="30-min free consultation"
-                            data-lazy-src="wp-content/uploads/2023/01/2consult.jpg"
+                        <img width="100px" src="wp-content/uploads/2023/01/2consult.jpg" alt="30-min free consultation"
+                            title="30-min free consultation" data-lazy-src="wp-content/uploads/2023/01/2consult.jpg"
                             data-pagespeed-url-hash="3435895109" data-ll-status="loaded" class="entered lazyloaded">
                         <span>Make plans and options</span>
                     </h3>
@@ -160,8 +156,7 @@ if ( ! defined( 'ABSPATH' ) ) {
                 </div>
             </div>
             <div class="col-md-6 img-left mb-5" data-aos="fade-left">
-                <img src="wp-content/uploads/2022/12/zxytbj1S-Construction.jpg" alt=""
-                    class="web-dev mb-5">
+                <img src="wp-content/uploads/2022/12/zxytbj1S-Construction.jpg" alt="" class="web-dev mb-5">
             </div>
 
 
@@ -172,64 +167,62 @@ if ( ! defined( 'ABSPATH' ) ) {
                 <div class="line-2"></div>
             </div>
             <div class="row">
-                <div class="col-lg-3 col-md-4 col-sm-6 mb-2" data-aos="fade-down" data-aos-delay="100"> 
+                <div class="col-lg-3 col-md-4 col-sm-6 mb-2" data-aos="fade-down" data-aos-delay="100">
                     <a href="javascript:;" title="Python" class="c-contentblocklist__listblock--item">
-                        <img src="wp-content/uploads/2023/01/python.jpg"
-                            alt="Python development" title="Python development"
-                            data-pagespeed-url-hash="3435895109" data-ll-status="loaded" class="entered lazyloaded">
+                        <img src="wp-content/uploads/2023/01/python.jpg" alt="Python development"
+                            title="Python development" data-pagespeed-url-hash="3435895109" data-ll-status="loaded"
+                            class="entered lazyloaded">
                     </a>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6 mb-2" data-aos="fade-down" data-aos-delay="200">
                     <a href="javascript:;" title="Python" class="c-contentblocklist__listblock--item">
-                        <img src="wp-content/uploads/2022/12/tech-we-use-16.jpg"
-                            alt="Python development" title="Python development"
-                            data-pagespeed-url-hash="3435895109" data-ll-status="loaded" class="entered lazyloaded">
+                        <img src="wp-content/uploads/2022/12/tech-we-use-16.jpg" alt="Python development"
+                            title="Python development" data-pagespeed-url-hash="3435895109" data-ll-status="loaded"
+                            class="entered lazyloaded">
                     </a>
                 </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 mb-2" data-aos="fade-down" data-aos-delay="300"> 
+                <div class="col-lg-3 col-md-4 col-sm-6 mb-2" data-aos="fade-down" data-aos-delay="300">
                     <a href="javascript:;" title="Python" class="c-contentblocklist__listblock--item">
-                        <img src="wp-content/uploads/2022/12/2560px-Logo.min_.svg_.png"
-                            alt="Python development" title="Python development"
+                        <img src="wp-content/uploads/2022/12/2560px-Logo.min_.svg_.png" alt="Python development"
+                            title="Python development"
                             data-lazy-src="wp-content/uploads/2022/12/2560px-Logo.min_.svg_.png"
                             data-pagespeed-url-hash="3435895109" data-ll-status="loaded" class="entered lazyloaded">
                     </a>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6 mb-2" data-aos="fade-down" data-aos-delay="400">
                     <a href="javascript:;" title="Python" class="c-contentblocklist__listblock--item">
-                        <img src="wp-content/uploads/2022/12/tech-we-use-12.jpg"
-                            alt="Python development" title="Python development"
-                            data-pagespeed-url-hash="3435895109" data-ll-status="loaded" class="entered lazyloaded">
+                        <img src="wp-content/uploads/2022/12/tech-we-use-12.jpg" alt="Python development"
+                            title="Python development" data-pagespeed-url-hash="3435895109" data-ll-status="loaded"
+                            class="entered lazyloaded">
                     </a>
                 </div>
 
-                <div class="col-lg-3 col-md-4 col-sm-6 mb-2" data-aos="fade-up" data-aos-delay="450"> 
+                <div class="col-lg-3 col-md-4 col-sm-6 mb-2" data-aos="fade-up" data-aos-delay="450">
                     <a href="javascript:;" title="Python" class="c-contentblocklist__listblock--item">
-                        <img src="wp-content/uploads/2022/12/tech-we-use-13.jpg"
-                            alt="Python development" title="Python development"
+                        <img src="wp-content/uploads/2022/12/tech-we-use-13.jpg" alt="Python development"
+                            title="Python development" data-pagespeed-url-hash="3435895109" data-ll-status="loaded"
+                            class="entered lazyloaded">
+                    </a>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 mb-2" data-aos="fade-up" data-aos-delay="500">
+                    <a href="javascript:;" title="Python" class="c-contentblocklist__listblock--item">
+                        <img src="wp-content/uploads/2022/12/tech-we-use-10.jpg" alt="Python development"
+                            title="Python development" data-lazy-src="wp-content/uploads/2022/12/tech-we-use-10.jpg"
                             data-pagespeed-url-hash="3435895109" data-ll-status="loaded" class="entered lazyloaded">
                     </a>
                 </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 mb-2" data-aos="fade-up" data-aos-delay="500"> 
+                <div class="col-lg-3 col-md-6 col-sm-6 mb-2" data-aos="fade-up" data-aos-delay="550">
                     <a href="javascript:;" title="Python" class="c-contentblocklist__listblock--item">
-                        <img src="wp-content/uploads/2022/12/tech-we-use-10.jpg"
-                            alt="Python development" title="Python development"
-                            data-lazy-src="wp-content/uploads/2022/12/tech-we-use-10.jpg"
+                        <img src="wp-content/uploads/2022/12/Docker-Logo-2013.png" alt="Python development"
+                            title="Python development" data-lazy-src="wp-content/uploads/2022/12/Docker-Logo-2013.png"
                             data-pagespeed-url-hash="3435895109" data-ll-status="loaded" class="entered lazyloaded">
                     </a>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-6 mb-2" data-aos="fade-up" data-aos-delay="550"> 
+                <div class="col-lg-3 col-md-6 col-sm-6 mb-2" data-aos="fade-up" data-aos-delay="600">
                     <a href="javascript:;" title="Python" class="c-contentblocklist__listblock--item">
-                        <img src="wp-content/uploads/2022/12/Docker-Logo-2013.png"
-                            alt="Python development" title="Python development"
-                            data-lazy-src="wp-content/uploads/2022/12/Docker-Logo-2013.png"
-                            data-pagespeed-url-hash="3435895109" data-ll-status="loaded" class="entered lazyloaded">
-                    </a>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-6 mb-2" data-aos="fade-up" data-aos-delay="600"> 
-                    <a href="javascript:;" title="Python" class="c-contentblocklist__listblock--item">
-                        <img src="wp-content/uploads/2022/12/React_logo_wordmark.png"
-                            alt="Python development" title="Python development"
-                            data-pagespeed-url-hash="3435895109" data-ll-status="loaded" class="entered lazyloaded">
+                        <img src="wp-content/uploads/2022/12/React_logo_wordmark.png" alt="Python development"
+                            title="Python development" data-pagespeed-url-hash="3435895109" data-ll-status="loaded"
+                            class="entered lazyloaded">
                     </a>
                 </div>
 
@@ -237,318 +230,351 @@ if ( ! defined( 'ABSPATH' ) ) {
         </div>
 
     </div>
-    <section class="section-three-service3 p-30">
+
+
+</section>
+<section class="section-three-service3 p-30 ">
         <div class="container">
-        <div class="slick-choose"  data-aos="flip-left">
-             <div class="items">
-            <div class="row">
-                <h2 class="mb-3 text-center">APP Development</h2>
-                <div class="wprt-lines style-2 custom-1 mb-4">
-                    <div class="line-1"></div>
+            <div class="slick-choose" data-aos="flip-left">
+                <div class="items">
+                    <div class="row">
+                        <h2 class="mb-3 text-center">APP Development</h2>
+                        <div class="wprt-lines style-2 custom-1 mb-4">
+                            <div class="line-1"></div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-12">
+                            <div class="wprt-icon-box accent-background rounded icon-effect-3 icon-right">
+                                <div class="icon-wrap">
+                                    <img src="wp-content/uploads/2022/12/PUaGYqu9-services_why_enlab_xamarin_1.jpg"
+                                        width="64" height="64" alt="">
+                                </div>
+                                <div class="content-wrap">
+                                    <h3 class="dd-title font-size-18">Metal Roofing</h3>
+                                    <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales quam id
+                                        lorem
+                                        lobortis, interdum nisl.</p>
+                                </div>
+                            </div>
+
+                            <div class="wprt-spacer" data-desktop="22" data-mobi="30" data-smobi="30"
+                                style="height:22px"></div>
+
+                            <div class="wprt-icon-box accent-background rounded icon-effect-3 icon-right">
+                                <div class="icon-wrap">
+                                    <img src="wp-content/uploads/2022/12/bwKPENzz-services_why_enlab_xamarin_2.jpg"
+                                        width="64" height="64" alt="">
+                                </div>
+                                <div class="content-wrap">
+                                    <h3 class="dd-title font-size-18">Electrical Systems</h3>
+                                    <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales quam id
+                                        lorem
+                                        lobortis, vitae nisl.</p>
+                                </div>
+                            </div>
+
+                            <div class="wprt-spacer" data-desktop="22" data-mobi="30" data-smobi="30"
+                                style="height:22px"></div>
+
+                            <div class="wprt-icon-box accent-background rounded icon-effect-3 icon-right">
+                                <div class="icon-wrap">
+                                    <img src="wp-content/uploads/2022/12/vpIK5bPw-services_why_enlab_xamarin_3.jpg"
+                                        width="64" height="64" alt="">
+                                </div>
+                                <div class="content-wrap">
+                                    <h3 class="dd-title font-size-18">Tiling and Painting</h3>
+                                    <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales id
+                                        lorem
+                                        lobortis, vitae interdum nisl.</p>
+                                </div>
+                            </div>
+
+                            <div class="wprt-spacer" data-desktop="20" data-mobi="30" data-smobi="30"
+                                style="height:20px"></div>
+                        </div>
+                        <div class="col-lg-4 col-md-12">
+                            <div class="text-center">
+                                <img width="100%" height="50%" src="wp-content/uploads/2023/01/app.jpg"
+                                    class="img-reponsive" alt="">
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-12">
+                            <div class="wprt-icon-box2 accent-background rounded icon-effect-3 icon-left">
+                                <div class="icon-wrap">
+                                    <img src="wp-content/uploads/2022/12/services_why_enlab_xamarin_4.jpg" width="64"
+                                        height="64" alt="">
+                                </div>
+                                <div class="content-wrap">
+                                    <h3 class="dd-title font-size-18">Metal Roofing</h3>
+                                    <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales quam id
+                                        lorem
+                                        lobortis, interdum nisl.</p>
+                                </div>
+                            </div>
+
+                            <div class="wprt-spacer" data-desktop="22" data-mobi="30" data-smobi="30"
+                                style="height:22px"></div>
+
+                            <div class="wprt-icon-box2 accent-background rounded icon-effect-3 icon-left">
+                                <div class="icon-wrap">
+                                    <img src="wp-content/uploads/2022/12/devops.jpg" width="64" height="64" alt="">
+                                </div>
+                                <div class="content-wrap">
+                                    <h3 class="dd-title font-size-18">Electrical Systems</h3>
+                                    <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales quam id
+                                        lorem
+                                        lobortis, vitae nisl.</p>
+                                </div>
+                            </div>
+
+                            <div class="wprt-spacer" data-desktop="22" data-mobi="30" data-smobi="30"
+                                style="height:22px"></div>
+
+                            <div class="wprt-icon-box2 accent-background rounded icon-effect-3 icon-left">
+                                <div class="icon-wrap">
+                                    <img src="wp-content/uploads/2022/12/Best-For-MVP.png" width="64" height="64"
+                                        alt="">
+                                </div>
+                                <div class="content-wrap">
+                                    <h3 class="dd-title font-size-18">Metal Roofing</h3>
+                                    <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales quam id
+                                        lorem
+                                        lobortis, interdum nisl.</p>
+                                </div>
+                            </div>
+
+                            <div class="wprt-spacer" data-desktop="20" data-mobi="30" data-smobi="30"
+                                style="height:20px"></div>
+                        </div>
+                    </div>
                 </div>
-
-                <div class="col-lg-4 col-md-12">
-                    <div class="wprt-icon-box accent-background rounded icon-effect-3 icon-right">
-                        <div class="icon-wrap">
-                            <img src="wp-content/uploads/2022/12/PUaGYqu9-services_why_enlab_xamarin_1.jpg" width="64"
-                                height="64" alt="">
+                <div class="items">
+                    <div class="row">
+                        <h2 class="mb-3 text-center"> WEB APP Development</h2>
+                        <div class="wprt-lines style-2 custom-1 mb-4">
+                            <div class="line-1"></div>
                         </div>
-                        <div class="content-wrap">
-                            <h3 class="dd-title font-size-18">Metal Roofing</h3>
-                            <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales quam id lorem
-                                lobortis, interdum nisl.</p>
+
+                        <div class="col-lg-4 col-md-12">
+                            <div class="wprt-icon-box accent-background rounded icon-effect-3 icon-right">
+                                <div class="icon-wrap">
+                                    <img src="wp-content/uploads/2022/12/PUaGYqu9-services_why_enlab_xamarin_1.jpg"
+                                        width="64" height="64" alt="">
+                                </div>
+                                <div class="content-wrap">
+                                    <h3 class="dd-title font-size-18">Metal Roofing</h3>
+                                    <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales quam id
+                                        lorem
+                                        lobortis, interdum nisl.</p>
+                                </div>
+                            </div>
+
+                            <div class="wprt-spacer" data-desktop="22" data-mobi="30" data-smobi="30"
+                                style="height:22px"></div>
+
+                            <div class="wprt-icon-box accent-background rounded icon-effect-3 icon-right">
+                                <div class="icon-wrap">
+                                    <img src="wp-content/uploads/2022/12/bwKPENzz-services_why_enlab_xamarin_2.jpg"
+                                        width="64" height="64" alt="">
+                                </div>
+                                <div class="content-wrap">
+                                    <h3 class="dd-title font-size-18">Electrical Systems</h3>
+                                    <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales quam id
+                                        lorem
+                                        lobortis, vitae nisl.</p>
+                                </div>
+                            </div>
+
+                            <div class="wprt-spacer" data-desktop="22" data-mobi="30" data-smobi="30"
+                                style="height:22px"></div>
+
+                            <div class="wprt-icon-box accent-background rounded icon-effect-3 icon-right">
+                                <div class="icon-wrap">
+                                    <img src="wp-content/uploads/2022/12/vpIK5bPw-services_why_enlab_xamarin_3.jpg"
+                                        width="64" height="64" alt="">
+                                </div>
+                                <div class="content-wrap">
+                                    <h3 class="dd-title font-size-18">Tiling and Painting</h3>
+                                    <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales id
+                                        lorem
+                                        lobortis, vitae interdum nisl.</p>
+                                </div>
+                            </div>
+
+                            <div class="wprt-spacer" data-desktop="20" data-mobi="30" data-smobi="30"
+                                style="height:20px"></div>
+                        </div>
+                        <div class="col-lg-4 col-md-12">
+                            <div class="text-center">
+                                <img width="100%" height="50%" class="img-responsive"
+                                    src="wp-content/uploads/2022/12/web.jpg" alt="">
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-12">
+                            <div class="wprt-icon-box2 accent-background rounded icon-effect-3 icon-left">
+                                <div class="icon-wrap">
+                                    <img src="wp-content/uploads/2022/12/services_why_enlab_xamarin_4.jpg" width="64"
+                                        height="64" alt="">
+                                </div>
+                                <div class="content-wrap">
+                                    <h3 class="dd-title font-size-18">Metal Roofing</h3>
+                                    <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales quam id
+                                        lorem
+                                        lobortis, interdum nisl.</p>
+                                </div>
+                            </div>
+
+                            <div class="wprt-spacer" data-desktop="22" data-mobi="30" data-smobi="30"
+                                style="height:22px"></div>
+
+                            <div class="wprt-icon-box2 accent-background rounded icon-effect-3 icon-left">
+                                <div class="icon-wrap">
+                                    <img src="wp-content/uploads/2022/12/devops.jpg" width="64" height="64" alt="">
+                                </div>
+                                <div class="content-wrap">
+                                    <h3 class="dd-title font-size-18">Electrical Systems</h3>
+                                    <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales quam id
+                                        lorem
+                                        lobortis, vitae nisl.</p>
+                                </div>
+                            </div>
+
+                            <div class="wprt-spacer" data-desktop="22" data-mobi="30" data-smobi="30"
+                                style="height:22px"></div>
+
+                            <div class="wprt-icon-box2 accent-background rounded icon-effect-3 icon-left">
+                                <div class="icon-wrap">
+                                    <img src="wp-content/uploads/2022/12/Best-For-MVP.png" width="64"
+                                        class="img-responsive" height="64" alt="">
+                                </div>
+                                <div class="content-wrap">
+                                    <h3 class="dd-title font-size-18">Metal Roofing</h3>
+                                    <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales quam id
+                                        lorem
+                                        lobortis, interdum nisl.</p>
+                                </div>
+                            </div>
+
+                            <div class="wprt-spacer" data-desktop="20" data-mobi="30" data-smobi="30"
+                                style="height:20px"></div>
                         </div>
                     </div>
-
-                    <div class="wprt-spacer" data-desktop="22" data-mobi="30" data-smobi="30" style="height:22px"></div>
-
-                    <div class="wprt-icon-box accent-background rounded icon-effect-3 icon-right">
-                        <div class="icon-wrap">
-                            <img src="wp-content/uploads/2022/12/bwKPENzz-services_why_enlab_xamarin_2.jpg" width="64"
-                                height="64" alt="">
-                        </div>
-                        <div class="content-wrap">
-                            <h3 class="dd-title font-size-18">Electrical Systems</h3>
-                            <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales quam id lorem
-                                lobortis, vitae nisl.</p>
-                        </div>
-                    </div>
-
-                    <div class="wprt-spacer" data-desktop="22" data-mobi="30" data-smobi="30" style="height:22px"></div>
-
-                    <div class="wprt-icon-box accent-background rounded icon-effect-3 icon-right">
-                        <div class="icon-wrap">
-                            <img src="wp-content/uploads/2022/12/vpIK5bPw-services_why_enlab_xamarin_3.jpg" width="64"
-                                height="64" alt="">
-                        </div>
-                        <div class="content-wrap">
-                            <h3 class="dd-title font-size-18">Tiling and Painting</h3>
-                            <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales id lorem
-                                lobortis, vitae interdum nisl.</p>
-                        </div>
-                    </div>
-
-                    <div class="wprt-spacer" data-desktop="20" data-mobi="30" data-smobi="30" style="height:20px"></div>
                 </div>
-                <div class="col-lg-4 col-md-12">
-                    <div class="text-center">
-                        <img width="100%" height="50%"
-                            src="wp-content/uploads/2023/01/app.jpg" class="img-reponsive" alt="">
+                <div class="items">
+                    <div class="row">
+                        <h2 class="mb-3 text-center"> Cloud & Server Admin Solution</h2>
+                        <div class="wprt-lines style-2 custom-1 mb-4">
+                            <div class="line-1"></div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-12">
+                            <div class="wprt-icon-box accent-background rounded icon-effect-3 icon-right">
+                                <div class="icon-wrap">
+                                    <img src="wp-content/uploads/2022/12/PUaGYqu9-services_why_enlab_xamarin_1.jpg"
+                                        width="64" height="64" alt="">
+                                </div>
+                                <div class="content-wrap">
+                                    <h3 class="dd-title font-size-18">Metal Roofing</h3>
+                                    <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales quam id
+                                        lorem
+                                        lobortis, interdum nisl.</p>
+                                </div>
+                            </div>
+
+                            <div class="wprt-spacer" data-desktop="22" data-mobi="30" data-smobi="30"
+                                style="height:22px"></div>
+
+                            <div class="wprt-icon-box accent-background rounded icon-effect-3 icon-right">
+                                <div class="icon-wrap">
+                                    <img src="wp-content/uploads/2022/12/bwKPENzz-services_why_enlab_xamarin_2.jpg"
+                                        width="64" height="64" alt="">
+                                </div>
+                                <div class="content-wrap">
+                                    <h3 class="dd-title font-size-18">Electrical Systems</h3>
+                                    <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales quam id
+                                        lorem
+                                        lobortis, vitae nisl.</p>
+                                </div>
+                            </div>
+
+                            <div class="wprt-spacer" data-desktop="22" data-mobi="30" data-smobi="30"
+                                style="height:22px"></div>
+
+                            <div class="wprt-icon-box accent-background rounded icon-effect-3 icon-right">
+                                <div class="icon-wrap">
+                                    <img src="wp-content/uploads/2022/12/vpIK5bPw-services_why_enlab_xamarin_3.jpg"
+                                        width="64" height="64" alt="">
+                                </div>
+                                <div class="content-wrap">
+                                    <h3 class="dd-title font-size-18">Tiling and Painting</h3>
+                                    <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales id
+                                        lorem
+                                        lobortis, vitae interdum nisl.</p>
+                                </div>
+                            </div>
+
+                            <div class="wprt-spacer" data-desktop="20" data-mobi="30" data-smobi="30"
+                                style="height:20px"></div>
+                        </div>
+                        <div class="col-lg-4 col-md-12">
+                            <div class="text-center">
+                                <img width="100%" height="50%" class="img-responsive"
+                                    src="wp-content/uploads/2022/12/sever.jpg" alt="">
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-12">
+                            <div class="wprt-icon-box2 accent-background rounded icon-effect-3 icon-left">
+                                <div class="icon-wrap">
+                                    <img src="wp-content/uploads/2022/12/services_why_enlab_xamarin_4.jpg" width="64"
+                                        height="64" alt="">
+                                </div>
+                                <div class="content-wrap">
+                                    <h3 class="dd-title font-size-18">Metal Roofing</h3>
+                                    <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales quam id
+                                        lorem
+                                        lobortis, interdum nisl.</p>
+                                </div>
+                            </div>
+
+                            <div class="wprt-spacer" data-desktop="22" data-mobi="30" data-smobi="30"
+                                style="height:22px"></div>
+
+                            <div class="wprt-icon-box2 accent-background rounded icon-effect-3 icon-left">
+                                <div class="icon-wrap">
+                                    <img src="wp-content/uploads/2022/12/devops.jpg" width="64" height="64" alt="">
+                                </div>
+                                <div class="content-wrap">
+                                    <h3 class="dd-title font-size-18">Electrical Systems</h3>
+                                    <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales quam id
+                                        lorem
+                                        lobortis, vitae nisl.</p>
+                                </div>
+                            </div>
+
+                            <div class="wprt-spacer" data-desktop="22" data-mobi="30" data-smobi="30"
+                                style="height:22px"></div>
+
+                            <div class="wprt-icon-box2 accent-background rounded icon-effect-3 icon-left">
+                                <div class="icon-wrap">
+                                    <img src="wp-content/uploads/2022/12/Best-For-MVP.png" width="64" height="64"
+                                        alt="">
+                                </div>
+                                <div class="content-wrap">
+                                    <h3 class="dd-title font-size-18">Metal Roofing</h3>
+                                    <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales quam id
+                                        lorem
+                                        lobortis, interdum nisl.</p>
+                                </div>
+                            </div>
+
+                            <div class="wprt-spacer" data-desktop="20" data-mobi="30" data-smobi="30"
+                                style="height:20px"></div>
+                        </div>
                     </div>
-                </div>
-                <div class="col-lg-4 col-md-12">
-                    <div class="wprt-icon-box2 accent-background rounded icon-effect-3 icon-left">
-                        <div class="icon-wrap">
-                            <img src="wp-content/uploads/2022/12/services_why_enlab_xamarin_4.jpg" width="64"
-                                height="64" alt="">
-                        </div>
-                        <div class="content-wrap">
-                            <h3 class="dd-title font-size-18">Metal Roofing</h3>
-                            <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales quam id lorem
-                                lobortis, interdum nisl.</p>
-                        </div>
-                    </div>
-
-                    <div class="wprt-spacer" data-desktop="22" data-mobi="30" data-smobi="30" style="height:22px"></div>
-
-                    <div class="wprt-icon-box2 accent-background rounded icon-effect-3 icon-left">
-                        <div class="icon-wrap">
-                            <img src="wp-content/uploads/2022/12/devops.jpg" width="64"
-                                height="64" alt="">
-                        </div>
-                        <div class="content-wrap">
-                            <h3 class="dd-title font-size-18">Electrical Systems</h3>
-                            <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales quam id lorem
-                                lobortis, vitae nisl.</p>
-                        </div>
-                    </div>
-
-                    <div class="wprt-spacer" data-desktop="22" data-mobi="30" data-smobi="30" style="height:22px"></div>
-
-                    <div class="wprt-icon-box2 accent-background rounded icon-effect-3 icon-left">
-                        <div class="icon-wrap">
-                            <img src="wp-content/uploads/2022/12/Best-For-MVP.png" width="64"
-                                height="64" alt="">
-                        </div>
-                        <div class="content-wrap">
-                            <h3 class="dd-title font-size-18">Metal Roofing</h3>
-                            <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales quam id lorem
-                                lobortis, interdum nisl.</p>
-                        </div>
-                    </div>
-
-                    <div class="wprt-spacer" data-desktop="20" data-mobi="30" data-smobi="30" style="height:20px"></div>
                 </div>
             </div>
-        </div>
-        <div class="items">
-            <div class="row">
-                <h2 class="mb-3 text-center"> WEB APP Development</h2>
-                <div class="wprt-lines style-2 custom-1 mb-4">
-                    <div class="line-1"></div>
-                </div>
-
-           <div class="col-lg-4 col-md-12">
-                    <div class="wprt-icon-box accent-background rounded icon-effect-3 icon-right">
-                        <div class="icon-wrap">
-                            <img src="wp-content/uploads/2022/12/PUaGYqu9-services_why_enlab_xamarin_1.jpg" width="64"
-                                height="64" alt="">
-                        </div>
-                        <div class="content-wrap">
-                            <h3 class="dd-title font-size-18">Metal Roofing</h3>
-                            <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales quam id lorem
-                                lobortis, interdum nisl.</p>
-                        </div>
-                    </div>
-
-                    <div class="wprt-spacer" data-desktop="22" data-mobi="30" data-smobi="30" style="height:22px"></div>
-
-                    <div class="wprt-icon-box accent-background rounded icon-effect-3 icon-right">
-                        <div class="icon-wrap">
-                            <img src="wp-content/uploads/2022/12/bwKPENzz-services_why_enlab_xamarin_2.jpg" width="64"
-                                height="64" alt="">
-                        </div>
-                        <div class="content-wrap">
-                            <h3 class="dd-title font-size-18">Electrical Systems</h3>
-                            <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales quam id lorem
-                                lobortis, vitae nisl.</p>
-                        </div>
-                    </div>
-
-                    <div class="wprt-spacer" data-desktop="22" data-mobi="30" data-smobi="30" style="height:22px"></div>
-
-                    <div class="wprt-icon-box accent-background rounded icon-effect-3 icon-right">
-                        <div class="icon-wrap">
-                            <img src="wp-content/uploads/2022/12/vpIK5bPw-services_why_enlab_xamarin_3.jpg" width="64"
-                                height="64" alt="">
-                        </div>
-                        <div class="content-wrap">
-                            <h3 class="dd-title font-size-18">Tiling and Painting</h3>
-                            <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales id lorem
-                                lobortis, vitae interdum nisl.</p>
-                        </div>
-                    </div>
-
-                    <div class="wprt-spacer" data-desktop="20" data-mobi="30" data-smobi="30" style="height:20px"></div>
-                </div>
-           <div class="col-lg-4 col-md-12">
-                    <div class="text-center">
-                        <img width="100%" height="50%"class="img-responsive"
-                            src="wp-content/uploads/2022/12/web.jpg" alt="">
-                    </div>
-                </div>
-           <div class="col-lg-4 col-md-12">
-                    <div class="wprt-icon-box2 accent-background rounded icon-effect-3 icon-left">
-                        <div class="icon-wrap">
-                            <img src="wp-content/uploads/2022/12/services_why_enlab_xamarin_4.jpg" width="64"
-                                height="64" alt="">
-                        </div>
-                        <div class="content-wrap">
-                            <h3 class="dd-title font-size-18">Metal Roofing</h3>
-                            <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales quam id lorem
-                                lobortis, interdum nisl.</p>
-                        </div>
-                    </div>
-
-                    <div class="wprt-spacer" data-desktop="22" data-mobi="30" data-smobi="30" style="height:22px"></div>
-
-                    <div class="wprt-icon-box2 accent-background rounded icon-effect-3 icon-left">
-                        <div class="icon-wrap">
-                            <img src="wp-content/uploads/2022/12/devops.jpg" width="64"
-                                height="64" alt="">
-                        </div>
-                        <div class="content-wrap">
-                            <h3 class="dd-title font-size-18">Electrical Systems</h3>
-                            <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales quam id lorem
-                                lobortis, vitae nisl.</p>
-                        </div>
-                    </div>
-
-                    <div class="wprt-spacer" data-desktop="22" data-mobi="30" data-smobi="30" style="height:22px"></div>
-
-                    <div class="wprt-icon-box2 accent-background rounded icon-effect-3 icon-left">
-                        <div class="icon-wrap">
-                            <img src="wp-content/uploads/2022/12/Best-For-MVP.png" width="64"class="img-responsive"
-                                height="64" alt="">
-                        </div>
-                        <div class="content-wrap">
-                            <h3 class="dd-title font-size-18">Metal Roofing</h3>
-                            <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales quam id lorem
-                                lobortis, interdum nisl.</p>
-                        </div>
-                    </div>
-
-                    <div class="wprt-spacer" data-desktop="20" data-mobi="30" data-smobi="30" style="height:20px"></div>
-                </div>
-            </div>
-        </div>
-        <div class="items">
-            <div class="row">
-                <h2 class="mb-3 text-center"> Cloud & Server Admin Solution</h2>
-                <div class="wprt-lines style-2 custom-1 mb-4">
-                    <div class="line-1"></div>
-                </div>
-
-           <div class="col-lg-4 col-md-12">
-                    <div class="wprt-icon-box accent-background rounded icon-effect-3 icon-right">
-                        <div class="icon-wrap">
-                            <img src="wp-content/uploads/2022/12/PUaGYqu9-services_why_enlab_xamarin_1.jpg" width="64"
-                                height="64" alt="">
-                        </div>
-                        <div class="content-wrap">
-                            <h3 class="dd-title font-size-18">Metal Roofing</h3>
-                            <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales quam id lorem
-                                lobortis, interdum nisl.</p>
-                        </div>
-                    </div>
-
-                    <div class="wprt-spacer" data-desktop="22" data-mobi="30" data-smobi="30" style="height:22px"></div>
-
-                    <div class="wprt-icon-box accent-background rounded icon-effect-3 icon-right">
-                        <div class="icon-wrap">
-                            <img src="wp-content/uploads/2022/12/bwKPENzz-services_why_enlab_xamarin_2.jpg" width="64"
-                                height="64" alt="">
-                        </div>
-                        <div class="content-wrap">
-                            <h3 class="dd-title font-size-18">Electrical Systems</h3>
-                            <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales quam id lorem
-                                lobortis, vitae nisl.</p>
-                        </div>
-                    </div>
-
-                    <div class="wprt-spacer" data-desktop="22" data-mobi="30" data-smobi="30" style="height:22px"></div>
-
-                    <div class="wprt-icon-box accent-background rounded icon-effect-3 icon-right">
-                        <div class="icon-wrap">
-                            <img src="wp-content/uploads/2022/12/vpIK5bPw-services_why_enlab_xamarin_3.jpg" width="64"
-                                height="64" alt="">
-                        </div>
-                        <div class="content-wrap">
-                            <h3 class="dd-title font-size-18">Tiling and Painting</h3>
-                            <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales id lorem
-                                lobortis, vitae interdum nisl.</p>
-                        </div>
-                    </div>
-
-                    <div class="wprt-spacer" data-desktop="20" data-mobi="30" data-smobi="30" style="height:20px"></div>
-                </div>
-           <div class="col-lg-4 col-md-12">
-                    <div class="text-center">
-                        <img width="100%" height="50%" class="img-responsive"
-                            src="wp-content/uploads/2022/12/sever.jpg" alt="">
-                    </div>
-                </div>
-           <div class="col-lg-4 col-md-12">
-                    <div class="wprt-icon-box2 accent-background rounded icon-effect-3 icon-left">
-                        <div class="icon-wrap">
-                            <img src="wp-content/uploads/2022/12/services_why_enlab_xamarin_4.jpg" width="64"
-                                height="64" alt="">
-                        </div>
-                        <div class="content-wrap">
-                            <h3 class="dd-title font-size-18">Metal Roofing</h3>
-                            <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales quam id lorem
-                                lobortis, interdum nisl.</p>
-                        </div>
-                    </div>
-
-                    <div class="wprt-spacer" data-desktop="22" data-mobi="30" data-smobi="30" style="height:22px"></div>
-
-                    <div class="wprt-icon-box2 accent-background rounded icon-effect-3 icon-left">
-                        <div class="icon-wrap">
-                            <img src="wp-content/uploads/2022/12/devops.jpg" width="64"
-                                height="64" alt="">
-                        </div>
-                        <div class="content-wrap">
-                            <h3 class="dd-title font-size-18">Electrical Systems</h3>
-                            <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales quam id lorem
-                                lobortis, vitae nisl.</p>
-                        </div>
-                    </div>
-
-                    <div class="wprt-spacer" data-desktop="22" data-mobi="30" data-smobi="30" style="height:22px"></div>
-
-                    <div class="wprt-icon-box2 accent-background rounded icon-effect-3 icon-left">
-                        <div class="icon-wrap">
-                            <img src="wp-content/uploads/2022/12/Best-For-MVP.png" width="64"
-                                height="64" alt="">
-                        </div>
-                        <div class="content-wrap">
-                            <h3 class="dd-title font-size-18">Metal Roofing</h3>
-                            <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales quam id lorem
-                                lobortis, interdum nisl.</p>
-                        </div>
-                    </div>
-
-                    <div class="wprt-spacer" data-desktop="20" data-mobi="30" data-smobi="30" style="height:20px"></div>
-                </div>
-            </div>
-        </div>
-        </div>
         </div>
     </section>
- 
-</section>
-
 <section class="get_started_area">
     <div class="shap one"></div>
     <div class="shap two"></div>
@@ -557,29 +583,29 @@ if ( ! defined( 'ABSPATH' ) ) {
     <div class="container">
         <div class="row">
             <div class="col-lg-6 d-flex align-items-center">
-                <div class="get_content" >
+                <div class="get_content">
                     <h3 class="f_400 ">
-                        <font >
-                            <font >Apply</font>
+                        <font>
+                            <font>Apply</font>
                         </font>
                     </h3>
                     <h2 class="f_700 f_p f_size_40 l_height50 mb_20 ">
-                        <font >
-                            <font >Join #BridSoft today!</font>
+                        <font>
+                            <font>Join #BridSoft today!</font>
                         </font>
                     </h2>
                     <p class="f_400 f_p mb_40 ">
-                        <font >
-                            <font >Would you like to be a part of our team?
+                        <font>
+                            <font>Would you like to be a part of our team?
                             </font>
-                            <font >We look for people who are committed to improving
+                            <font>We look for people who are committed to improving
                                 others' business challenges with purpose. </font>
-                            <font >Apply now and see if you can thrive.</font>
+                            <font>Apply now and see if you can thrive.</font>
                         </font>
                     </p>
                     <a href="http://localhost/Brid/index.php/contact" class="about_btn btn_hover cus_mb-10">
-                        <font >
-                            <font >View work</font>
+                        <font>
+                            <font>View work</font>
                         </font>
                     </a>
                     <!--<img src="img/home7/google_icon.png" alt="">-->
@@ -603,7 +629,8 @@ if ( ! defined( 'ABSPATH' ) ) {
                 <div class="row col-lg-12 col-md-12">
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="case_study_item">
-                            <img src="wp-content/uploads/2023/01/hopital.jpg"  class="img-responsive" alt="">
+                            <img src="wp-content/uploads/2022/12/pexels-photo-356040.webp" class="img-responsive"
+                                alt="">
                             <div class="text">
                                 <p class="date">January-September 2020</p>
                                 <a href="javascript:;">
@@ -617,112 +644,8 @@ if ( ! defined( 'ABSPATH' ) ) {
 
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="case_study_item">
-                            <img src="wp-content/uploads/2022/12/pexels-photo-256455.jpeg"   class="img-responsive" alt="">
-                            <div class="text">
-                                <p class="date">May 2022</p>
-                                <a href="javascript:;">
-                                    <h3>Client: Solucalc</h3>
-                                </a>
-                                <p>Server Configuration, API, Mobile App &amp; Admin Dashboard Development</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 col-sm-6">
-                        <div class="case_study_item">
-                            <img src="wp-content/uploads/2022/12/pexels-photo-1216589.jpeg"
-                            class="img-responsive"   alt="">
-                            <div class="text">
-                                <p class="date">June 2022</p>
-                                <a href="javascript:;">
-                                    <h3>Client: PolisiN</h3>
-                                </a>
-                                <p>Social Media Plateform &amp; Admin Dashboard</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-6">
-                        <div class="case_study_item">
-                            <img src="wp-content/uploads/2022/12/pexels-photo-256455.jpeg"   class="img-responsive" alt="">
-                            <div class="text">
-                                <p class="date">May 2022</p>
-                                <a href="javascript:;">
-                                    <h3>Client: Solucalc</h3>
-                                </a>
-                                <p>Server Configuration, API, Mobile App &amp; Admin Dashboard Development</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-6">
-                        <div class="case_study_item">
-                            <img src="wp-content/uploads/2022/12/pexels-photo-1216589.jpeg"
-                            class="img-responsive"   alt="">
-                            <div class="text">
-                                <p class="date">June 2022</p>
-                                <a href="javascript:;">
-                                    <h3>Client: PolisiN</h3>
-                                </a>
-                                <p>Social Media Plateform &amp; Admin Dashboard</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-6">
-                        <div class="case_study_item">
-                            <img src="wp-content/uploads/2022/12/pexels-photo-256455.jpeg"   class="img-responsive" alt="">
-                            <div class="text">
-                                <p class="date">May 2022</p>
-                                <a href="javascript:;">
-                                    <h3>Client: Solucalc</h3>
-                                </a>
-                                <p>Server Configuration, API, Mobile App &amp; Admin Dashboard Development</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="item-choose">
-                <div class="row col-lg-12">
-                    <div class="col-lg-4 col-md-6 col-sm-6">
-                        <div class="case_study_item">
-                            <img src="wp-content/uploads/2023/01/hopital.jpg"  class="img-responsive"alt="">
-                            <div class="text">
-                                <p class="date">January-September 2020</p>
-                                <a href="javascript:;">
-                                    <h3>Client: C.S.C Belgium</h3>
-                                </a>
-                                <p>Design, Manufacturing, Logistics and Installation</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 col-sm-6">
-                        <div class="case_study_item">
-                            <img src="wp-content/uploads/2022/12/pexels-photo-1216589.jpeg"
-                            class="img-responsive"   alt="">
-                            <div class="text">
-                                <p class="date">June 2022</p>
-                                <a href="javascript:;">
-                                    <h3>Client: PolisiN</h3>
-                                </a>
-                                <p>Social Media Plateform &amp; Admin Dashboard</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-6">
-                        <div class="case_study_item">
-                            <img src="wp-content/uploads/2022/12/pexels-photo-256455.jpeg"   class="img-responsive" alt="">
-                            <div class="text">
-                                <p class="date">May 2022</p>
-                                <a href="javascript:;">
-                                    <h3>Client: Solucalc</h3>
-                                </a>
-                                <p>Server Configuration, API, Mobile App &amp; Admin Dashboard Development</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-6">
-                        <div class="case_study_item">
-                            <img src="wp-content/uploads/2022/12/pexels-photo-256455.jpeg"  class="img-responsive" alt="">
+                            <img src="wp-content/uploads/2022/12/pexels-photo-256455.jpeg" class="img-responsive"
+                                alt="">
                             <div class="text">
                                 <p class="date">May 2022</p>
                                 <a href="javascript:;">
@@ -748,7 +671,118 @@ if ( ! defined( 'ABSPATH' ) ) {
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="case_study_item">
-                            <img src="wp-content/uploads/2022/12/pexels-photo-256455.jpeg"   class="img-responsive" alt="">
+                            <img src="wp-content/uploads/2022/12/pexels-photo-256455.jpeg" class="img-responsive"
+                                alt="">
+                            <div class="text">
+                                <p class="date">May 2022</p>
+                                <a href="javascript:;">
+                                    <h3>Client: Solucalc</h3>
+                                </a>
+                                <p>Server Configuration, API, Mobile App &amp; Admin Dashboard Development</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="case_study_item">
+                            <img src="wp-content/uploads/2022/12/pexels-photo-1216589.jpeg" class="img-responsive"
+                                alt="">
+                            <div class="text">
+                                <p class="date">June 2022</p>
+                                <a href="javascript:;">
+                                    <h3>Client: PolisiN</h3>
+                                </a>
+                                <p>Social Media Plateform &amp; Admin Dashboard</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="case_study_item">
+                            <img src="wp-content/uploads/2022/12/pexels-photo-256455.jpeg" class="img-responsive"
+                                alt="">
+                            <div class="text">
+                                <p class="date">May 2022</p>
+                                <a href="javascript:;">
+                                    <h3>Client: Solucalc</h3>
+                                </a>
+                                <p>Server Configuration, API, Mobile App &amp; Admin Dashboard Development</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="item-choose">
+                <div class="row col-lg-12">
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="case_study_item">
+                            <img src="wp-content/uploads/2022/12/pexels-photo-356040.webp" class="img-responsive"
+                                alt="">
+                            <div class="text">
+                                <p class="date">January-September 2020</p>
+                                <a href="javascript:;">
+                                    <h3>Client: C.S.C Belgium</h3>
+                                </a>
+                                <p>Design, Manufacturing, Logistics and Installation</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="case_study_item">
+                            <img src="wp-content/uploads/2022/12/pexels-photo-1216589.jpeg" class="img-responsive"
+                                alt="">
+                            <div class="text">
+                                <p class="date">June 2022</p>
+                                <a href="javascript:;">
+                                    <h3>Client: PolisiN</h3>
+                                </a>
+                                <p>Social Media Plateform &amp; Admin Dashboard</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="case_study_item">
+                            <img src="wp-content/uploads/2022/12/pexels-photo-256455.jpeg" class="img-responsive"
+                                alt="">
+                            <div class="text">
+                                <p class="date">May 2022</p>
+                                <a href="javascript:;">
+                                    <h3>Client: Solucalc</h3>
+                                </a>
+                                <p>Server Configuration, API, Mobile App &amp; Admin Dashboard Development</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="case_study_item">
+                            <img src="wp-content/uploads/2022/12/pexels-photo-256455.jpeg" class="img-responsive"
+                                alt="">
+                            <div class="text">
+                                <p class="date">May 2022</p>
+                                <a href="javascript:;">
+                                    <h3>Client: Solucalc</h3>
+                                </a>
+                                <p>Server Configuration, API, Mobile App &amp; Admin Dashboard Development</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="case_study_item">
+                            <img src="wp-content/uploads/2022/12/pexels-photo-1216589.jpeg" class="img-responsive"
+                                alt="">
+                            <div class="text">
+                                <p class="date">June 2022</p>
+                                <a href="javascript:;">
+                                    <h3>Client: PolisiN</h3>
+                                </a>
+                                <p>Social Media Plateform &amp; Admin Dashboard</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="case_study_item">
+                            <img src="wp-content/uploads/2022/12/pexels-photo-256455.jpeg" class="img-responsive"
+                                alt="">
                             <div class="text">
                                 <p class="date">May 2022</p>
                                 <a href="javascript:;">
@@ -957,7 +991,7 @@ if ( ! defined( 'ABSPATH' ) ) {
                     </ul>
                 </div>
             </div>
-            <div class="col-lg-8 mb-4" >
+            <div class="col-lg-8 mb-4">
                 <div class="wprt-spacer" data-desktop="70" data-mobi="60" data-smobi="60" style="height:70px"></div>
                 <h2 class="text-left margin-bottom-10">GET IN TOUCH WITH US</h2>
                 <div class="wprt-lines style-2 custom-1 mb-4">
