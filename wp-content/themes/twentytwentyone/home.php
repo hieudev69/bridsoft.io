@@ -82,7 +82,7 @@ if ( ! defined( 'ABSPATH' ) ) {
                                     company </span>perfectly.</h3>
                             <ul class="list-unstyled mb-30 pl-0 pr_20">
                                 <li>
-                                    <p data-aos="fade-down"  data-aos-delay="280">>Not the other way around. The time of products, that force you to adapt to their
+                                    <p data-aos="fade-down"  data-aos-delay="280">Not the other way around. The time of products, that force you to adapt to their
                                         logic is over. Because a Solution ist not just a program. It’s the results it
                                         brings to your business.</p>
                                 </li>
@@ -146,9 +146,9 @@ if ( ! defined( 'ABSPATH' ) ) {
                 <div class="content-right " data-aos="fade-right">
                     <h3 class="c-content__listblock--title o-font-gilroy">
                         <img width="100px"
-                            src="https://media.enlabsoftware.com/wp-content/uploads/2022/12/17092507/2consult.svg"
+                            src="wp-content/uploads/2023/01/2consult.jpg"
                             alt="30-min free consultation" title="30-min free consultation"
-                            data-lazy-src="https://media.enlabsoftware.com/wp-content/uploads/2022/12/17092507/2consult.svg"
+                            data-lazy-src="wp-content/uploads/2023/01/2consult.jpg"
                             data-pagespeed-url-hash="3435895109" data-ll-status="loaded" class="entered lazyloaded">
                         <span>Make plans and options</span>
                     </h3>
@@ -173,21 +173,21 @@ if ( ! defined( 'ABSPATH' ) ) {
             </div>
             <div class="row">
                 <div class="col-lg-3 col-md-4 col-sm-6 mb-2" data-aos="fade-down" data-aos-delay="100"> 
-                    <a href="/technologies/python" title="Python" class="c-contentblocklist__listblock--item">
-                        <img src="https://media.enlabsoftware.com/wp-content/uploads/2022/12/17091343/key-technology-python.svg"
+                    <a href="javascript:;" title="Python" class="c-contentblocklist__listblock--item">
+                        <img src="wp-content/uploads/2023/01/python.jpg"
                             alt="Python development" title="Python development"
                             data-pagespeed-url-hash="3435895109" data-ll-status="loaded" class="entered lazyloaded">
                     </a>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6 mb-2" data-aos="fade-down" data-aos-delay="200">
-                    <a href="/technologies/python" title="Python" class="c-contentblocklist__listblock--item">
+                    <a href="javascript:;" title="Python" class="c-contentblocklist__listblock--item">
                         <img src="wp-content/uploads/2022/12/tech-we-use-16.jpg"
                             alt="Python development" title="Python development"
                             data-pagespeed-url-hash="3435895109" data-ll-status="loaded" class="entered lazyloaded">
                     </a>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6 mb-2" data-aos="fade-down" data-aos-delay="300"> 
-                    <a href="/technologies/python" title="Python" class="c-contentblocklist__listblock--item">
+                    <a href="javascript:;" title="Python" class="c-contentblocklist__listblock--item">
                         <img src="wp-content/uploads/2022/12/2560px-Logo.min_.svg_.png"
                             alt="Python development" title="Python development"
                             data-lazy-src="wp-content/uploads/2022/12/2560px-Logo.min_.svg_.png"
@@ -195,38 +195,38 @@ if ( ! defined( 'ABSPATH' ) ) {
                     </a>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6 mb-2" data-aos="fade-down" data-aos-delay="400">
-                    <a href="/technologies/python" title="Python" class="c-contentblocklist__listblock--item">
+                    <a href="javascript:;" title="Python" class="c-contentblocklist__listblock--item">
                         <img src="wp-content/uploads/2022/12/tech-we-use-12.jpg"
                             alt="Python development" title="Python development"
                             data-pagespeed-url-hash="3435895109" data-ll-status="loaded" class="entered lazyloaded">
                     </a>
                 </div>
 
-                <div class="col-lg-3 col-md-4 col-sm-6 mb-2" data-aos="fade-up" data-aos-delay="500"> 
-                    <a href="/technologies/python" title="Python" class="c-contentblocklist__listblock--item">
+                <div class="col-lg-3 col-md-4 col-sm-6 mb-2" data-aos="fade-up" data-aos-delay="450"> 
+                    <a href="javascript:;" title="Python" class="c-contentblocklist__listblock--item">
                         <img src="wp-content/uploads/2022/12/tech-we-use-13.jpg"
                             alt="Python development" title="Python development"
                             data-pagespeed-url-hash="3435895109" data-ll-status="loaded" class="entered lazyloaded">
                     </a>
                 </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 mb-2" data-aos="fade-up" data-aos-delay="600"> 
-                    <a href="/technologies/python" title="Python" class="c-contentblocklist__listblock--item">
+                <div class="col-lg-3 col-md-4 col-sm-6 mb-2" data-aos="fade-up" data-aos-delay="500"> 
+                    <a href="javascript:;" title="Python" class="c-contentblocklist__listblock--item">
                         <img src="wp-content/uploads/2022/12/tech-we-use-10.jpg"
                             alt="Python development" title="Python development"
                             data-lazy-src="wp-content/uploads/2022/12/tech-we-use-10.jpg"
                             data-pagespeed-url-hash="3435895109" data-ll-status="loaded" class="entered lazyloaded">
                     </a>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-6 mb-2" data-aos="fade-up" data-aos-delay="700"> 
-                    <a href="/technologies/python" title="Python" class="c-contentblocklist__listblock--item">
+                <div class="col-lg-3 col-md-6 col-sm-6 mb-2" data-aos="fade-up" data-aos-delay="550"> 
+                    <a href="javascript:;" title="Python" class="c-contentblocklist__listblock--item">
                         <img src="wp-content/uploads/2022/12/Docker-Logo-2013.png"
                             alt="Python development" title="Python development"
                             data-lazy-src="wp-content/uploads/2022/12/Docker-Logo-2013.png"
                             data-pagespeed-url-hash="3435895109" data-ll-status="loaded" class="entered lazyloaded">
                     </a>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-6 mb-2" data-aos="fade-up" data-aos-delay="800"> 
-                    <a href="/technologies/python" title="Python" class="c-contentblocklist__listblock--item">
+                <div class="col-lg-3 col-md-6 col-sm-6 mb-2" data-aos="fade-up" data-aos-delay="600"> 
+                    <a href="javascript:;" title="Python" class="c-contentblocklist__listblock--item">
                         <img src="wp-content/uploads/2022/12/React_logo_wordmark.png"
                             alt="Python development" title="Python development"
                             data-pagespeed-url-hash="3435895109" data-ll-status="loaded" class="entered lazyloaded">
@@ -294,7 +294,7 @@ if ( ! defined( 'ABSPATH' ) ) {
                 <div class="col-lg-4 col-md-12">
                     <div class="text-center">
                         <img width="100%" height="50%"
-                            src="wp-content/uploads/2022/12/web.jpg" class="img-reponsive" alt="">
+                            src="wp-content/uploads/2023/01/app.jpg" class="img-reponsive" alt="">
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-12">
@@ -395,7 +395,7 @@ if ( ! defined( 'ABSPATH' ) ) {
            <div class="col-lg-4 col-md-12">
                     <div class="text-center">
                         <img width="100%" height="50%"class="img-responsive"
-                            src="wp-content/uploads/2022/12/sever.jpg" alt="">
+                            src="wp-content/uploads/2022/12/web.jpg" alt="">
                     </div>
                 </div>
            <div class="col-lg-4 col-md-12">
@@ -496,7 +496,7 @@ if ( ! defined( 'ABSPATH' ) ) {
            <div class="col-lg-4 col-md-12">
                     <div class="text-center">
                         <img width="100%" height="50%" class="img-responsive"
-                            src="wp-content/uploads/2022/12/pexels-photo-1054397.webp" alt="">
+                            src="wp-content/uploads/2022/12/sever.jpg" alt="">
                     </div>
                 </div>
            <div class="col-lg-4 col-md-12">
@@ -604,7 +604,7 @@ if ( ! defined( 'ABSPATH' ) ) {
                 <div class="row col-lg-12 col-md-12">
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="case_study_item">
-                            <img src="wp-content/uploads/2022/12/pexels-photo-356040.webp"  class="img-responsive" alt="">
+                            <img src="wp-content/uploads/2023/01/hopital.jpg"  class="img-responsive" alt="">
                             <div class="text">
                                 <p class="date">January-September 2020</p>
                                 <a href="#home">
@@ -685,7 +685,7 @@ if ( ! defined( 'ABSPATH' ) ) {
                 <div class="row col-lg-12">
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="case_study_item">
-                            <img src="wp-content/uploads/2022/12/pexels-photo-356040.webp"  class="img-responsive"alt="">
+                            <img src="wp-content/uploads/2023/01/hopital.jpg"  class="img-responsive"alt="">
                             <div class="text">
                                 <p class="date">January-September 2020</p>
                                 <a href="#home">
