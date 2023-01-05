@@ -75,13 +75,15 @@ if ( ! defined( 'ABSPATH' ) ) {
                         </div>
                     </div>
                     <div class="col-lg-6  col-md-6  col-sm-6  border-left">
-                        <div class="service_details-second pr_120 ">
-                            <div class="dot"><span class="dot1"></span><span class="dot2"></span></div>
+                    <div class="service_details">
+                    <h3 class="mt-3" data-aos="fade-down" data-aos-delay="250">Company technology startup. New <span class="f_700">but not inexperienced.</span></h3>
 
-                            <h3 data-aos="fade-down" data-aos-delay="250">Company technology startup. New <span class="f_700">but not inexperienced.</span></h3>
                             <ul class="list-unstyled mb-30 pl-0 pr_20">
+                             
                                 <li>
-                                    <p data-aos="fade-down" data-aos-delay="280">Our team is a collection of individuals who have operated and worked at large corporations and companies in Vietnam. The staff is multi-faceted, young and enthusiastic.</p>
+                                    <p>Not the other way around. The time of products, that force you to adapt to their
+                                        logic is over. Because a Solution ist not just a program. It’s the results it
+                                        brings to your business.</p>
                                 </li>
                             </ul>
                         </div>
@@ -103,7 +105,7 @@ if ( ! defined( 'ABSPATH' ) ) {
                         <div class="dot"><span class="dot1"></span><span class="dot2"></span></div>
 
                         <div class="service_details">
-                            <h3 data-aos="fade-down">The solution is as individual as your business. It has to <span class="f_700"> fit your company</span>perfectly.</h3>
+                            <h3 class="f_p f_size_30 t_color3 l_height40 mb-30"  data-aos="fade-down">The solution is as individual as your business. It has to <span class="f_700"> fit your company</span>perfectly.</h3>
 
                             <ul class="list-unstyled mb-30 pl-0 pr_20">
                              

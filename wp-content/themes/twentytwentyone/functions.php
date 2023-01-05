@@ -405,7 +405,7 @@ function twenty_twenty_one_scripts() {
 		wp_enqueue_style( 'twenty-twenty-one-style', get_template_directory_uri() . '/assets/css/ie.css', array(), wp_get_theme()->get( 'Version' ) );
 	} else {
 		// If not IE, use the standard stylesheet.
-		wp_enqueue_style( 'twenty-twenty-one-style', get_template_directory_uri() . '/style.css', array(), '7.9.4');
+		wp_enqueue_style( 'twenty-twenty-one-style', get_template_directory_uri() . '/style.css', array(), '7.9.7');
 	}
 
 	// RTL styles.
