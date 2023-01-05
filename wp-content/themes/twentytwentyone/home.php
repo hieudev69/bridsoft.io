@@ -296,7 +296,7 @@ if ( ! defined( 'ABSPATH' ) ) {
                         </div>
                         <div class="col-lg-4 col-md-12">
                             <div class="text-center">
-                                <img width="100%" height="50%" src="wp-content/uploads/2023/01/app.jpg"
+                                <img width="100%" height="50%" src="wp-content/uploads/2023/01/app.webp"
                                     class="img-reponsive" alt="">
                             </div>
                         </div>
@@ -339,9 +339,7 @@ if ( ! defined( 'ABSPATH' ) ) {
                                 </div>
                                 <div class="content-wrap">
                                     <h3 class="dd-title font-size-18">Metal Roofing</h3>
-                                    <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales quam id
-                                        lorem
-                                        lobortis, interdum nisl.</p>
+                                    <p>Both Flutter and Xamarin are a great fit for MVP development to build their cross-platform mobile app with critical features, as well as ease of integration and UI flexibility.</p>
                                 </div>
                             </div>
 
@@ -409,7 +407,7 @@ if ( ! defined( 'ABSPATH' ) ) {
                         <div class="col-lg-4 col-md-12">
                             <div class="text-center">
                                 <img width="100%" height="50%" class="img-responsive"
-                                    src="wp-content/uploads/2022/12/web.jpg" alt="">
+                                    src="wp-content/uploads/2023/01/pexels-photo-2102416.webp" alt="">
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-12">
@@ -521,7 +519,7 @@ if ( ! defined( 'ABSPATH' ) ) {
                         <div class="col-lg-4 col-md-12">
                             <div class="text-center">
                                 <img width="100%" height="50%" class="img-responsive"
-                                    src="wp-content/uploads/2022/12/sever.jpg" alt="">
+                                    src="wp-content/uploads/2023/01/server.webp" alt="">
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-12">
@@ -631,7 +629,7 @@ if ( ! defined( 'ABSPATH' ) ) {
                 <div class="row col-lg-12 col-md-12">
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="case_study_item">
-                            <img src="wp-content/uploads/2022/12/pexels-photo-356040.webp" class="img-responsive"
+                            <img src="wp-content/uploads/2023/01/doctor.webp" class="img-responsive"
                                 alt="">
                             <div class="text">
                                 <p class="date">January-September 2020</p>
@@ -646,7 +644,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="case_study_item">
-                            <img src="wp-content/uploads/2022/12/pexels-photo-256455.jpeg" class="img-responsive"
+                            <img src="wp-content/uploads/2023/01/construct.webp" class="img-responsive"
                                 alt="">
                             <div class="text">
                                 <p class="date">May 2022</p>
@@ -660,7 +658,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="case_study_item">
-                            <img src="wp-content/uploads/2022/12/pexels-photo-1216589.jpeg" class="img-responsive"
+                            <img src="wp-content/uploads/2023/01/realestate.webp" class="img-responsive"
                                 alt="">
                             <div class="text">
                                 <p class="date">June 2022</p>
@@ -673,7 +671,7 @@ if ( ! defined( 'ABSPATH' ) ) {
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="case_study_item">
-                            <img src="wp-content/uploads/2022/12/pexels-photo-256455.jpeg" class="img-responsive"
+                            <img src="wp-content/uploads/2023/01/construct.webp" class="img-responsive"
                                 alt="">
                             <div class="text">
                                 <p class="date">May 2022</p>
@@ -686,7 +684,7 @@ if ( ! defined( 'ABSPATH' ) ) {
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="case_study_item">
-                            <img src="wp-content/uploads/2022/12/pexels-photo-1216589.jpeg" class="img-responsive"
+                            <img src="wp-content/uploads/2023/01/realestate.webp" class="img-responsive"
                                 alt="">
                             <div class="text">
                                 <p class="date">June 2022</p>
@@ -699,7 +697,7 @@ if ( ! defined( 'ABSPATH' ) ) {
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="case_study_item">
-                            <img src="wp-content/uploads/2022/12/pexels-photo-256455.jpeg" class="img-responsive"
+                            <img src="wp-content/uploads/2023/01/construct.webp" class="img-responsive"
                                 alt="">
                             <div class="text">
                                 <p class="date">May 2022</p>
@@ -716,7 +714,7 @@ if ( ! defined( 'ABSPATH' ) ) {
                 <div class="row col-lg-12">
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="case_study_item">
-                            <img src="wp-content/uploads/2022/12/pexels-photo-356040.webp" class="img-responsive"
+                            <img src="wp-content/uploads/2023/01/doctor.webp" class="img-responsive"
                                 alt="">
                             <div class="text">
                                 <p class="date">January-September 2020</p>
@@ -730,7 +728,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="case_study_item">
-                            <img src="wp-content/uploads/2022/12/pexels-photo-1216589.jpeg" class="img-responsive"
+                            <img src="wp-content/uploads/2023/01/realestate.webp" class="img-responsive"
                                 alt="">
                             <div class="text">
                                 <p class="date">June 2022</p>
@@ -743,7 +741,7 @@ if ( ! defined( 'ABSPATH' ) ) {
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="case_study_item">
-                            <img src="wp-content/uploads/2022/12/pexels-photo-256455.jpeg" class="img-responsive"
+                            <img src="wp-content/uploads/2023/01/construct.webp" class="img-responsive"
                                 alt="">
                             <div class="text">
                                 <p class="date">May 2022</p>
@@ -756,7 +754,7 @@ if ( ! defined( 'ABSPATH' ) ) {
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="case_study_item">
-                            <img src="wp-content/uploads/2022/12/pexels-photo-256455.jpeg" class="img-responsive"
+                            <img src="wp-content/uploads/2023/01/construct.webp" class="img-responsive"
                                 alt="">
                             <div class="text">
                                 <p class="date">May 2022</p>
@@ -770,7 +768,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="case_study_item">
-                            <img src="wp-content/uploads/2022/12/pexels-photo-1216589.jpeg" class="img-responsive"
+                            <img src="wp-content/uploads/2023/01/realestate.webp" class="img-responsive"
                                 alt="">
                             <div class="text">
                                 <p class="date">June 2022</p>
@@ -783,7 +781,7 @@ if ( ! defined( 'ABSPATH' ) ) {
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="case_study_item">
-                            <img src="wp-content/uploads/2022/12/pexels-photo-256455.jpeg" class="img-responsive"
+                            <img src="wp-content/uploads/2023/01/construct.webp" class="img-responsive"
                                 alt="">
                             <div class="text">
                                 <p class="date">May 2022</p>
