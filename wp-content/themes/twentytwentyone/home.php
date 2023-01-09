@@ -136,74 +136,27 @@ if ( ! defined( 'ABSPATH' ) ) {
                 <div class="line-1"></div>
             </div>
             <div class="c-content__paragraph aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-                <p style="text-align: center;">Over the years of working in this offshore software industry, we truly
-                    understand its pros and cons. Instead of acquiring as many clients as possible and letting them go
-                    with
-                    frustration and poor deliveries, we try our best to establish <strong>a long-term
-                        relationship</strong>
-                    based on a strong commitment to <strong>transparency</strong> and <strong>integrity</strong>.</p>
+                <p style="text-align: center;">By leveraging serverless, microservice architecture and SOLID principles, we engineer your backend on reliable and scalable cloud-based environments to enable your business stability, maximize security, reduce downtime and allow room for growth as well as save your operation cost.</p>
             </div>
         </div>
 
 
 
     </div>
-    <!-- <section class="solution">
-        <div class="container-fluid">
+    <section class="solution mb-3">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-6">
-                        <div class="content-solution">
-                            <div class="items-solution mb-3">
-                                <div class="items-start-solution triangle-3">
-                                    <h1>S</h1>
-                                </div>
-                                <div class="item-end-solution">
-                                    <h4>Single Responsibility Principle</h4>
-                                </div>
-                            </div>
-                            <div class="items-solution mb-3">
-                                <div class="items-start-solution">
-                                    <h1>S</h1>
-                                </div>
-                                <div class="item-end-solution">
-                                    <h4>Single Responsibility Principle</h4>
+                    <div class="col-lg-1">
 
-                                </div>
-                            </div>
-                            <div class="items-solution mb-3">
-                                <div class="items-start-solution">
-                                    <h1>S</h1>
-                                </div>
-                                <div class="item-end-solution">
-                                    <h4>Single Responsibility Principle</h4>
-
-                                </div>
-                            </div>
-                        </div>
                     </div>
-                    <div class="col-lg-6">
-                        <div class="row">
-                            <div class="col-lg-6 col-md-4 col-sm-6 mb-2" data-aos="fade-down" data-aos-delay="100">
-                                <a href="javascript:;" title="Python" class="c-contentblocklist__listblock--item">
-                                    <img src="wp-content/uploads/2023/01/python.jpg" alt="Python development"
-                                        title="Python development" data-pagespeed-url-hash="3435895109"
-                                        data-ll-status="loaded" class="entered lazyloaded">
-                                </a>
-                            </div>
-                            <div class="col-lg-6 col-md-4 col-sm-6 mb-2" data-aos="fade-down" data-aos-delay="100">
-                                <a href="javascript:;" title="Python" class="c-contentblocklist__listblock--item">
-                                    <img src="wp-content/uploads/2023/01/python.jpg" alt="Python development"
-                                        title="Python development" data-pagespeed-url-hash="3435895109"
-                                        data-ll-status="loaded" class="entered lazyloaded">
-                                </a>
-                            </div>
-                        </div>
+                    <div class="col-lg-10">
+                        <img width="100%" height="608" src="wp-content/uploads/2023/01/solid.png" alt="">
                     </div>
+                    <div class="col-lg-1"></div>
+                  
                 </div>
             </div>
-        </div>
-    </section> -->
+    </section>
     <section class="servicde">
         <div class="container">
             <div class="row tech-use">
@@ -415,8 +368,10 @@ if ( ! defined( 'ABSPATH' ) ) {
                             </div>
                             <div class="content-wrap">
                                 <h3 class="dd-title font-size-18">Refreshing the web application experiences
-</h3>
-                                <p>We develop feature-rich and modern web applications for enterprises, startups, software vendors, and digital agencies. Applications are designed to be operationally effective, reliable, secure, and scalable. On-time and on-budget.
+                                </h3>
+                                <p>We develop feature-rich and modern web applications for enterprises, startups,
+                                    software vendors, and digital agencies. Applications are designed to be
+                                    operationally effective, reliable, secure, and scalable. On-time and on-budget.
                                 </p>
                             </div>
                         </div>
@@ -432,7 +387,8 @@ if ( ! defined( 'ABSPATH' ) ) {
                                 <h3 class="dd-title font-size-18">Rigorous quality assurance
 
                                 </h3>
-                                <p>We continuously do QA testing via manual, automation, and performance testing early and regularly to achieve bug-free deliveries.
+                                <p>We continuously do QA testing via manual, automation, and performance testing early
+                                    and regularly to achieve bug-free deliveries.
 
                                 </p>
                             </div>
@@ -460,7 +416,10 @@ if ( ! defined( 'ABSPATH' ) ) {
                             <div class="content-wrap">
                                 <h3 class="dd-title font-size-18">Performance Optimization
                                 </h3>
-                                <p>By leveraging serverless, microservice architecture and SOLID principles, we engineer your backend on reliable and scalable cloud-based environments to enable your business stability, maximize security, reduce downtime and allow room for growth as well as save your operation cost.
+                                <p>By leveraging serverless, microservice architecture and SOLID principles, we engineer
+                                    your backend on reliable and scalable cloud-based environments to enable your
+                                    business stability, maximize security, reduce downtime and allow room for growth as
+                                    well as save your operation cost.
                                 </p>
                             </div>
                         </div>
@@ -470,13 +429,16 @@ if ( ! defined( 'ABSPATH' ) ) {
 
                         <div class="wprt-icon-box2 accent-background rounded icon-effect-3 icon-left">
                             <div class="icon-wrap">
-                            <img src="wp-content/uploads/2022/12/devops.jpg" width="64" height="64" alt="">
+                                <img src="wp-content/uploads/2022/12/devops.jpg" width="64" height="64" alt="">
                             </div>
                             <div class="content-wrap">
                                 <h3 class="dd-title font-size-18">Agile and DevOps mindset
-</h3>
-                                <p>Last but not least, fast-time-to market and effectiveness are vital factors for happy customers. At Enlab, we embrace Agile and DevOps practices to speed up delivery velocity, improve products at a faster pace than traditional software development methods.
-</p>
+                                </h3>
+                                <p>Last but not least, fast-time-to market and effectiveness are vital factors for happy
+                                    customers. At Enlab, we embrace Agile and DevOps practices to speed up delivery
+                                    velocity, improve products at a faster pace than traditional software development
+                                    methods.
+                                </p>
                             </div>
                         </div>
 
