@@ -405,15 +405,14 @@ function twenty_twenty_one_scripts() {
 		wp_enqueue_style( 'twenty-twenty-one-style', get_template_directory_uri() . '/assets/css/ie.css', array(), wp_get_theme()->get( 'Version' ) );
 	} else {
 		// If not IE, use the standard stylesheet.
-		wp_enqueue_style( 'twenty-twenty-one-style', get_template_directory_uri() . '/style.css', array(), '8.0.4');
+		wp_enqueue_style( 'twenty-twenty-one-style', get_template_directory_uri() . '/style.css', array(), '8.1.2');
 	}
 
 	// RTL styles.
 	wp_style_add_data( 'twenty-twenty-one-style', 'rtl', 'replace' );
 
 	// Print styles.
-	wp_enqueue_style( 'twenty-twenty-one-print-style', get_template_directory_uri() . '/assets/css/print.css', array(), wp_get_theme()->get( 'Version' ), 'print' );
-	wp_enqueue_style( 'twenty-twenty-one-bootstrap', get_template_directory_uri() . '/boostrap/css/bootstrap.min.css');
+ 	wp_enqueue_style( 'twenty-twenty-one-bootstrap', get_template_directory_uri() . '/boostrap/css/bootstrap.min.css');
 
 	wp_enqueue_style( 'twenty-twenty-one-slickcss', get_template_directory_uri() . '/slick/slick/slick.css');
 	wp_enqueue_style( 'twenty-twenty-one-slicksscss', get_template_directory_uri() . '/slick/slick/slick-theme.css');
@@ -613,24 +612,24 @@ new Twenty_Twenty_One_Dark_Mode();
  *
  * @return void
  */
-function twentytwentyone_customize_preview_init() {
-	wp_enqueue_script(
-		'twentytwentyone-customize-helpers',
-		get_theme_file_uri( '/assets/js/customize-helpers.js' ),
-		array(),
-		wp_get_theme()->get( 'Version' ),
-		true
-	);
+// function twentytwentyone_customize_preview_init() {
+// 	wp_enqueue_script(
+// 		'twentytwentyone-customize-helpers',
+// 		get_theme_file_uri( '/assets/js/customize-helpers.js' ),
+// 		array(),
+// 		wp_get_theme()->get( 'Version' ),
+// 		true
+// 	);
 
-	wp_enqueue_script(
-		'twentytwentyone-customize-preview',
-		get_theme_file_uri( '/assets/js/customize-preview.js' ),
-		array( 'customize-preview', 'customize-selective-refresh', 'jquery', 'twentytwentyone-customize-helpers' ),
-		wp_get_theme()->get( 'Version' ),
-		true
-	);
-}
-add_action( 'customize_preview_init', 'twentytwentyone_customize_preview_init' );
+// 	wp_enqueue_script(
+// 		'twentytwentyone-customize-preview',
+// 		get_theme_file_uri( '/assets/js/customize-preview.js' ),
+// 		array( 'customize-preview', 'customize-selective-refresh', 'jquery', 'twentytwentyone-customize-helpers' ),
+// 		wp_get_theme()->get( 'Version' ),
+// 		true
+// 	);
+// }
+// add_action( 'customize_preview_init', 'twentytwentyone_customize_preview_init' );
 
 /**
  * Enqueue scripts for the customizer.
