@@ -77,7 +77,8 @@ if ( ! defined( 'ABSPATH' ) ) {
                     <div class="col-lg-6  col-md-6  col-sm-6  border-left">
                         <div class="service_details">
                             <h3 class="mt-3" data-aos="fade-down" data-aos-delay="250">Company technology startup. New
-                                <span class="f_700">but not inexperienced.</span></h3>
+                                <span class="f_700">but not inexperienced.</span>
+                            </h3>
 
                             <ul class="list-unstyled mb-30 pl-0 pr_20">
 
@@ -147,11 +148,11 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 
     </div>
-    <section class="solution">
-    <div class="container-fluid">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6">
+    <!-- <section class="solution">
+        <div class="container-fluid">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6">
                         <div class="content-solution">
                             <div class="items-solution mb-3">
                                 <div class="items-start-solution triangle-3">
@@ -166,41 +167,43 @@ if ( ! defined( 'ABSPATH' ) ) {
                                     <h1>S</h1>
                                 </div>
                                 <div class="item-end-solution">
-                                <h4>Single Responsibility Principle</h4>
+                                    <h4>Single Responsibility Principle</h4>
 
                                 </div>
-                            </div>  <div class="items-solution mb-3">
+                            </div>
+                            <div class="items-solution mb-3">
                                 <div class="items-start-solution">
                                     <h1>S</h1>
                                 </div>
                                 <div class="item-end-solution">
-                                <h4>Single Responsibility Principle</h4>
+                                    <h4>Single Responsibility Principle</h4>
 
                                 </div>
                             </div>
                         </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="row">
-                     <div class="col-lg-6 col-md-4 col-sm-6 mb-2" data-aos="fade-down" data-aos-delay="100">
-                        <a href="javascript:;" title="Python" class="c-contentblocklist__listblock--item">
-                            <img src="wp-content/uploads/2023/01/python.jpg" alt="Python development"
-                                title="Python development" data-pagespeed-url-hash="3435895109" data-ll-status="loaded"
-                                class="entered lazyloaded">
-                        </a>
-                    </div>   <div class="col-lg-6 col-md-4 col-sm-6 mb-2" data-aos="fade-down" data-aos-delay="100">
-                        <a href="javascript:;" title="Python" class="c-contentblocklist__listblock--item">
-                            <img src="wp-content/uploads/2023/01/python.jpg" alt="Python development"
-                                title="Python development" data-pagespeed-url-hash="3435895109" data-ll-status="loaded"
-                                class="entered lazyloaded">
-                        </a>
                     </div>
+                    <div class="col-lg-6">
+                        <div class="row">
+                            <div class="col-lg-6 col-md-4 col-sm-6 mb-2" data-aos="fade-down" data-aos-delay="100">
+                                <a href="javascript:;" title="Python" class="c-contentblocklist__listblock--item">
+                                    <img src="wp-content/uploads/2023/01/python.jpg" alt="Python development"
+                                        title="Python development" data-pagespeed-url-hash="3435895109"
+                                        data-ll-status="loaded" class="entered lazyloaded">
+                                </a>
+                            </div>
+                            <div class="col-lg-6 col-md-4 col-sm-6 mb-2" data-aos="fade-down" data-aos-delay="100">
+                                <a href="javascript:;" title="Python" class="c-contentblocklist__listblock--item">
+                                    <img src="wp-content/uploads/2023/01/python.jpg" alt="Python development"
+                                        title="Python development" data-pagespeed-url-hash="3435895109"
+                                        data-ll-status="loaded" class="entered lazyloaded">
+                                </a>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-</section>
+    </section> -->
     <section class="servicde">
         <div class="container">
             <div class="row tech-use">
@@ -293,10 +296,10 @@ if ( ! defined( 'ABSPATH' ) ) {
                                     width="64" height="64" alt="">
                             </div>
                             <div class="content-wrap">
-                                <h3 class="dd-title font-size-18">Metal Roofing</h3>
-                                <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales quam id
-                                    lorem
-                                    lobortis, interdum nisl.</p>
+                                <h3 class="dd-title font-size-18">Shareable one-stop code editing
+                                </h3>
+                                <p>With the motto “write once, run anywhere”, both Flutter and Xamarin can fine-tune UI
+                                    and overall business logic in iOS and Android through one-stop code editing</p>
                             </div>
                         </div>
 
@@ -309,10 +312,12 @@ if ( ! defined( 'ABSPATH' ) ) {
                                     width="64" height="64" alt="">
                             </div>
                             <div class="content-wrap">
-                                <h3 class="dd-title font-size-18">Electrical Systems</h3>
-                                <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales quam id
-                                    lorem
-                                    lobortis, vitae nisl.</p>
+                                <h3 class="dd-title font-size-18">Stunning native look and feel
+                                </h3>
+                                <p>Xamarin offers Xamarin.iOS, Xamarin.Android, and Xamarin. Form to ensure an
+                                    almost-native user experience and consistent look across platforms. Besides, Flutter
+                                    can create a complex UI that looks the same on different versions of operating
+                                    systems, all thanks to its programming language Dart.</p>
                             </div>
                         </div>
 
@@ -326,9 +331,9 @@ if ( ! defined( 'ABSPATH' ) ) {
                             </div>
                             <div class="content-wrap">
                                 <h3 class="dd-title font-size-18">Tiling and Painting</h3>
-                                <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales id
-                                    lorem
-                                    lobortis, vitae interdum nisl.</p>
+                                <p>Both Flutter and Xamarin support the hot reload feature, which helps developers
+                                    foresee issues and fix them faster before the final release.
+                                </p>
                             </div>
                         </div>
 
@@ -341,6 +346,7 @@ if ( ! defined( 'ABSPATH' ) ) {
                                 class="img-reponsive" alt="">
                         </div>
                     </div>
+
                     <div class="col-lg-4 col-md-12">
                         <div class="wprt-icon-box2 accent-background rounded icon-effect-3 icon-left">
                             <div class="icon-wrap">
@@ -348,10 +354,11 @@ if ( ! defined( 'ABSPATH' ) ) {
                                     height="64" alt="">
                             </div>
                             <div class="content-wrap">
-                                <h3 class="dd-title font-size-18">Metal Roofing</h3>
-                                <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales quam id
-                                    lorem
-                                    lobortis, interdum nisl.</p>
+                                <h3 class="dd-title font-size-18">Seamless cloud integration
+                                </h3>
+                                <p>Xamarin allows you to scale your apps efficiently at no time with Azure, while that
+                                    with Flutter is backed up by the powerful Google Cloud.
+                                </p>
                             </div>
                         </div>
 
@@ -363,10 +370,12 @@ if ( ! defined( 'ABSPATH' ) ) {
                                 <img src="wp-content/uploads/2022/12/devops.jpg" width="64" height="64" alt="">
                             </div>
                             <div class="content-wrap">
-                                <h3 class="dd-title font-size-18">Electrical Systems</h3>
-                                <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales quam id
-                                    lorem
-                                    lobortis, vitae nisl.</p>
+                                <h3 class="dd-title font-size-18">Strong community support
+                                </h3>
+                                <p>The stability of Flutter and Xamarin is guaranteed by power houses namely Google and
+                                    Microsoft, as well as further contribution from huge communities of skilled
+                                    developers.
+                                </p>
                             </div>
                         </div>
 
@@ -378,10 +387,11 @@ if ( ! defined( 'ABSPATH' ) ) {
                                 <img src="wp-content/uploads/2022/12/Best-For-MVP.png" width="64" height="64" alt="">
                             </div>
                             <div class="content-wrap">
-                                <h3 class="dd-title font-size-18">Metal Roofing</h3>
+                                <h3 class="dd-title font-size-18"></h3>
                                 <p>Both Flutter and Xamarin are a great fit for MVP development to build their
                                     cross-platform mobile app with critical features, as well as ease of integration and
-                                    UI flexibility.</p>
+                                    UI flexibility.
+                                </p>
                             </div>
                         </div>
 
@@ -390,6 +400,7 @@ if ( ! defined( 'ABSPATH' ) ) {
                     </div>
                 </div>
             </div>
+
             <div class="items">
                 <div class="row">
                     <h2 class="mb-3 text-center"> WEB APP Development</h2>
@@ -400,14 +411,13 @@ if ( ! defined( 'ABSPATH' ) ) {
                     <div class="col-lg-4 col-md-12">
                         <div class="wprt-icon-box accent-background rounded icon-effect-3 icon-right">
                             <div class="icon-wrap">
-                                <img src="wp-content/uploads/2022/12/PUaGYqu9-services_why_enlab_xamarin_1.jpg"
-                                    width="64" height="64" alt="">
+                                <img src="wp-content/uploads/2023/01/app1.webp" width="64" height="64" alt="">
                             </div>
                             <div class="content-wrap">
-                                <h3 class="dd-title font-size-18">Metal Roofing</h3>
-                                <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales quam id
-                                    lorem
-                                    lobortis, interdum nisl.</p>
+                                <h3 class="dd-title font-size-18">Refreshing the web application experiences
+</h3>
+                                <p>We develop feature-rich and modern web applications for enterprises, startups, software vendors, and digital agencies. Applications are designed to be operationally effective, reliable, secure, and scalable. On-time and on-budget.
+                                </p>
                             </div>
                         </div>
 
@@ -416,32 +426,22 @@ if ( ! defined( 'ABSPATH' ) ) {
 
                         <div class="wprt-icon-box accent-background rounded icon-effect-3 icon-right">
                             <div class="icon-wrap">
-                                <img src="wp-content/uploads/2022/12/bwKPENzz-services_why_enlab_xamarin_2.jpg"
-                                    width="64" height="64" alt="">
+                                <img src="wp-content/uploads/2023/01/app2.webp" width="64" height="64" alt="">
                             </div>
                             <div class="content-wrap">
-                                <h3 class="dd-title font-size-18">Electrical Systems</h3>
-                                <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales quam id
-                                    lorem
-                                    lobortis, vitae nisl.</p>
+                                <h3 class="dd-title font-size-18">Rigorous quality assurance
+
+                                </h3>
+                                <p>We continuously do QA testing via manual, automation, and performance testing early and regularly to achieve bug-free deliveries.
+
+                                </p>
                             </div>
                         </div>
 
                         <div class="wprt-spacer" data-desktop="22" data-mobi="30" data-smobi="30" style="height:22px">
                         </div>
 
-                        <div class="wprt-icon-box accent-background rounded icon-effect-3 icon-right">
-                            <div class="icon-wrap">
-                                <img src="wp-content/uploads/2022/12/vpIK5bPw-services_why_enlab_xamarin_3.jpg"
-                                    width="64" height="64" alt="">
-                            </div>
-                            <div class="content-wrap">
-                                <h3 class="dd-title font-size-18">Tiling and Painting</h3>
-                                <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales id
-                                    lorem
-                                    lobortis, vitae interdum nisl.</p>
-                            </div>
-                        </div>
+
 
                         <div class="wprt-spacer" data-desktop="20" data-mobi="30" data-smobi="30" style="height:20px">
                         </div>
@@ -455,14 +455,13 @@ if ( ! defined( 'ABSPATH' ) ) {
                     <div class="col-lg-4 col-md-12">
                         <div class="wprt-icon-box2 accent-background rounded icon-effect-3 icon-left">
                             <div class="icon-wrap">
-                                <img src="wp-content/uploads/2022/12/services_why_enlab_xamarin_4.jpg" width="64"
-                                    height="64" alt="">
+                                <img src="wp-content/uploads/2023/01/moon.webp" width="64" height="64" alt="">
                             </div>
                             <div class="content-wrap">
-                                <h3 class="dd-title font-size-18">Metal Roofing</h3>
-                                <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales quam id
-                                    lorem
-                                    lobortis, interdum nisl.</p>
+                                <h3 class="dd-title font-size-18">Performance Optimization
+                                </h3>
+                                <p>By leveraging serverless, microservice architecture and SOLID principles, we engineer your backend on reliable and scalable cloud-based environments to enable your business stability, maximize security, reduce downtime and allow room for growth as well as save your operation cost.
+                                </p>
                             </div>
                         </div>
 
@@ -471,31 +470,20 @@ if ( ! defined( 'ABSPATH' ) ) {
 
                         <div class="wprt-icon-box2 accent-background rounded icon-effect-3 icon-left">
                             <div class="icon-wrap">
-                                <img src="wp-content/uploads/2022/12/devops.jpg" width="64" height="64" alt="">
+                            <img src="wp-content/uploads/2022/12/devops.jpg" width="64" height="64" alt="">
                             </div>
                             <div class="content-wrap">
-                                <h3 class="dd-title font-size-18">Electrical Systems</h3>
-                                <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales quam id
-                                    lorem
-                                    lobortis, vitae nisl.</p>
+                                <h3 class="dd-title font-size-18">Agile and DevOps mindset
+</h3>
+                                <p>Last but not least, fast-time-to market and effectiveness are vital factors for happy customers. At Enlab, we embrace Agile and DevOps practices to speed up delivery velocity, improve products at a faster pace than traditional software development methods.
+</p>
                             </div>
                         </div>
 
                         <div class="wprt-spacer" data-desktop="22" data-mobi="30" data-smobi="30" style="height:22px">
                         </div>
 
-                        <div class="wprt-icon-box2 accent-background rounded icon-effect-3 icon-left">
-                            <div class="icon-wrap">
-                                <img src="wp-content/uploads/2022/12/Best-For-MVP.png" width="64" class="img-responsive"
-                                    height="64" alt="">
-                            </div>
-                            <div class="content-wrap">
-                                <h3 class="dd-title font-size-18">Metal Roofing</h3>
-                                <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales quam id
-                                    lorem
-                                    lobortis, interdum nisl.</p>
-                            </div>
-                        </div>
+
 
                         <div class="wprt-spacer" data-desktop="20" data-mobi="30" data-smobi="30" style="height:20px">
                         </div>
@@ -504,7 +492,7 @@ if ( ! defined( 'ABSPATH' ) ) {
             </div>
             <div class="items">
                 <div class="row">
-                    <h2 class="mb-3 text-center"> Cloud & Server Admin Solution</h2>
+                    <h2 class="mb-3 text-center"> Server & Cloud Admin</h2>
                     <div class="wprt-lines style-2 custom-1 mb-4">
                         <div class="line-1"></div>
                     </div>
@@ -512,14 +500,16 @@ if ( ! defined( 'ABSPATH' ) ) {
                     <div class="col-lg-4 col-md-12">
                         <div class="wprt-icon-box accent-background rounded icon-effect-3 icon-right">
                             <div class="icon-wrap">
-                                <img src="wp-content/uploads/2022/12/PUaGYqu9-services_why_enlab_xamarin_1.jpg"
-                                    width="64" height="64" alt="">
+                                <img src="wp-content/uploads/2023/01/app1.webp" width="64" height="64" alt="">
                             </div>
                             <div class="content-wrap">
-                                <h3 class="dd-title font-size-18">Metal Roofing</h3>
-                                <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales quam id
-                                    lorem
-                                    lobortis, interdum nisl.</p>
+                                <h3 class="dd-title font-size-18">Application Customization</h3>
+                                <p>Commercial off-the-shelf software could support your business economically but not
+                                    cover all your unique workflows. It’s time to approach hybrid to leverage the pros
+                                    of COTS while accessing the tailor-made features for your needs and your budget. Our
+                                    expertise could make sure your system is dynamic, user-friendly with cutting-edge
+                                    technology solutions, reliable API, and data integration.
+                                </p>
                             </div>
                         </div>
 
@@ -528,32 +518,24 @@ if ( ! defined( 'ABSPATH' ) ) {
 
                         <div class="wprt-icon-box accent-background rounded icon-effect-3 icon-right">
                             <div class="icon-wrap">
-                                <img src="wp-content/uploads/2022/12/bwKPENzz-services_why_enlab_xamarin_2.jpg"
-                                    width="64" height="64" alt="">
+                                <img src="wp-content/uploads/2023/01/app2.webp" width="64" height="64" alt="">
                             </div>
                             <div class="content-wrap">
-                                <h3 class="dd-title font-size-18">Electrical Systems</h3>
-                                <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales quam id
-                                    lorem
-                                    lobortis, vitae nisl.</p>
+                                <h3 class="dd-title font-size-18">Application Modernization
+                                </h3>
+                                <p>Legacy applications often consume a lot of time from your employees and trap them
+                                    within limitations. We are at your back to improve your outdated system with the
+                                    latest tools and technologies. A well-designed legacy modernization solution could
+                                    help you to streamline your operation, promote your transparency, drive your
+                                    employee’s efficiency, and meet the evolving market demands.
+                                </p>
                             </div>
                         </div>
 
                         <div class="wprt-spacer" data-desktop="22" data-mobi="30" data-smobi="30" style="height:22px">
                         </div>
 
-                        <div class="wprt-icon-box accent-background rounded icon-effect-3 icon-right">
-                            <div class="icon-wrap">
-                                <img src="wp-content/uploads/2022/12/vpIK5bPw-services_why_enlab_xamarin_3.jpg"
-                                    width="64" height="64" alt="">
-                            </div>
-                            <div class="content-wrap">
-                                <h3 class="dd-title font-size-18">Tiling and Painting</h3>
-                                <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales id
-                                    lorem
-                                    lobortis, vitae interdum nisl.</p>
-                            </div>
-                        </div>
+
 
                         <div class="wprt-spacer" data-desktop="20" data-mobi="30" data-smobi="30" style="height:20px">
                         </div>
@@ -567,14 +549,17 @@ if ( ! defined( 'ABSPATH' ) ) {
                     <div class="col-lg-4 col-md-12">
                         <div class="wprt-icon-box2 accent-background rounded icon-effect-3 icon-left">
                             <div class="icon-wrap">
-                                <img src="wp-content/uploads/2022/12/services_why_enlab_xamarin_4.jpg" width="64"
-                                    height="64" alt="">
+                                <img src="wp-content/uploads/2023/01/moon.webp" width="64" height="64" alt="">
                             </div>
                             <div class="content-wrap">
-                                <h3 class="dd-title font-size-18">Metal Roofing</h3>
-                                <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales quam id
-                                    lorem
-                                    lobortis, interdum nisl.</p>
+                                <h3 class="dd-title font-size-18">Performance Optimization
+                                </h3>
+                                <p>There are common cases for performance optimization like sluggish web and mobile
+                                    applications, poorly written codes and slow database queries, wrong and unscalable
+                                    architecture. Whatever it is, we will handle your requirements with a systematic
+                                    approach, propose solutions tailored for your issues, and deliver in the fastest
+                                    way.
+                                </p>
                             </div>
                         </div>
 
@@ -583,30 +568,21 @@ if ( ! defined( 'ABSPATH' ) ) {
 
                         <div class="wprt-icon-box2 accent-background rounded icon-effect-3 icon-left">
                             <div class="icon-wrap">
-                                <img src="wp-content/uploads/2022/12/devops.jpg" width="64" height="64" alt="">
+                                <img src="wp-content/uploads/2023/01/bug.webp" width="64" height="64" alt="">
                             </div>
                             <div class="content-wrap">
-                                <h3 class="dd-title font-size-18">Electrical Systems</h3>
-                                <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales quam id
-                                    lorem
-                                    lobortis, vitae nisl.</p>
+                                <h3 class="dd-title font-size-18">Bug Fixing</h3>
+                                <p>Bug-free is a myth. At Enlab, we provide a professional bug fixing service to help
+                                    you handle from minor to critical bugs, from technical to business rule bugs. By
+                                    figuring out the technologies, capabilities, and implementations needed to improve,
+                                    we create a strategy and perform the product refactoring as required.</p>
                             </div>
                         </div>
 
                         <div class="wprt-spacer" data-desktop="22" data-mobi="30" data-smobi="30" style="height:22px">
                         </div>
 
-                        <div class="wprt-icon-box2 accent-background rounded icon-effect-3 icon-left">
-                            <div class="icon-wrap">
-                                <img src="wp-content/uploads/2022/12/Best-For-MVP.png" width="64" height="64" alt="">
-                            </div>
-                            <div class="content-wrap">
-                                <h3 class="dd-title font-size-18">Metal Roofing</h3>
-                                <p>Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales quam id
-                                    lorem
-                                    lobortis, interdum nisl.</p>
-                            </div>
-                        </div>
+
 
                         <div class="wprt-spacer" data-desktop="20" data-mobi="30" data-smobi="30" style="height:20px">
                         </div>
